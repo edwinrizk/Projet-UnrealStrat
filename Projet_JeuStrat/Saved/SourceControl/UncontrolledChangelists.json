@@ -1,0 +1,27 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"D:/git/Projet-UnrealStrat/Projet_JeuStrat/Content/StarterContent/Blueprints/Blueprint_CeilingLight.uasset",
+				"D:/git/Projet-UnrealStrat/Projet_JeuStrat/Content/StrategyGame/Slate/Fonts/Roboto-Black.uasset",
+				"D:/git/Projet-UnrealStrat/Projet_JeuStrat/Content/StrategyGame/Slate/Fonts/Roboto-Regular.uasset",
+				"D:/git/Projet-UnrealStrat/Projet_JeuStrat/Content/MyRTSGame/Maps/RockyLvl_HLODLayer_Instanced.uasset",
+				"D:/git/Projet-UnrealStrat/Projet_JeuStrat/Content/MyRTSGame/Maps/RockyLvl_HLODLayer_Merged.uasset",
+				"D:/git/Projet-UnrealStrat/Projet_JeuStrat/Content/__ExternalActors__/MyRTSGame/Maps/RockyLvl/A/1G/EYT0LVRF04WY2C0FXPGMVB.uasset",
+				"D:/git/Projet-UnrealStrat/Projet_JeuStrat/Content/__ExternalActors__/MyRTSGame/Maps/RockyLvl/9/Q1/Z10CTZJJP8SIKDMMIBSFCO.uasset",
+				"D:/git/Projet-UnrealStrat/Projet_JeuStrat/Content/MyRTSGame/Maps/RockyLvl.umap",
+				"D:/git/Projet-UnrealStrat/Projet_JeuStrat/Content/__ExternalActors__/MyRTSGame/Maps/RockyLvl/E/PU/GV21HXNY2W78FFKTERCZGX.uasset",
+				"D:/git/Projet-UnrealStrat/Projet_JeuStrat/Content/__ExternalActors__/MyRTSGame/Maps/RockyLvl/1/L3/JDUYQ88IJB7E7U390K6HNW.uasset",
+				"D:/git/Projet-UnrealStrat/Projet_JeuStrat/Content/__ExternalActors__/MyRTSGame/Maps/RockyLvl/6/BP/R77UFK112PTM3B567CBDYH.uasset",
+				"D:/git/Projet-UnrealStrat/Projet_JeuStrat/Content/__ExternalActors__/MyRTSGame/Maps/RockyLvl/7/7S/YVGB7W2PFTX8NL7WFLK7GW.uasset",
+				"D:/git/Projet-UnrealStrat/Projet_JeuStrat/Content/__ExternalActors__/MyRTSGame/Maps/RockyLvl/D/JM/GO7CUYCPEIBFEACPS6BWE5.uasset",
+				"D:/git/Projet-UnrealStrat/Projet_JeuStrat/Content/__ExternalObjects__/MyRTSGame/Maps/RockyLvl/3/37/G3HHW1ZBV4BLCY7Q4TML9C.uasset",
+				"D:/git/Projet-UnrealStrat/Projet_JeuStrat/Content/StrategyGame/Slate/Fonts/Roboto-Black_Font.uasset",
+				"D:/git/Projet-UnrealStrat/Projet_JeuStrat/Content/StrategyGame/Slate/Fonts/Roboto-Regular_Font.uasset"
+			]
+		}
+	]
+}
