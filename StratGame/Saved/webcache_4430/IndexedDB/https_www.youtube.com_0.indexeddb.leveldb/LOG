@@ -1,0 +1,6 @@
+2023/03/27-20:26:40.997 1c94 Creating DB D:/dossier perso/GIT/Projet-UnrealStrat/Projet-UnrealStrat/StratGame/Saved/webcache_4430\IndexedDB\https_www.youtube.com_0.indexeddb.leveldb since it was missing.
+2023/03/27-20:26:41.006 1c94 Reusing MANIFEST D:/dossier perso/GIT/Projet-UnrealStrat/Projet-UnrealStrat/StratGame/Saved/webcache_4430\IndexedDB\https_www.youtube.com_0.indexeddb.leveldb/MANIFEST-000001
+2023/03/27-20:28:34.368 2390 Level-0 table #5: started
+2023/03/27-20:28:34.374 2390 Level-0 table #5: 8743 bytes OK
+2023/03/27-20:28:34.376 2390 Delete type=0 #3
+2023/03/27-20:28:34.376 2390 Manual compaction at level-0 from (begin) .. (end); will stop at (end)
