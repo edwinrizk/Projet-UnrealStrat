@@ -1312,3 +1312,321 @@ Make sure 'BP_QuartierGeneral_C' has been compiled for  Increment Or
 [2023.04.11-13.21.54:132][454]LogFileHelpers: InternalPromptForCheckoutAndSave took 117 ms (total: 2.23 sec)
 [2023.04.11-13.21.54:142][454]AssetCheck: New page: Asset Save: BP_QuartierGeneral
 [2023.04.11-13.21.54:142][454]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/Bâtiment/BP_QuartierGeneral.BP_QuartierGeneral
+[2023.04.11-13.22.57:297][108]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.04.11-13.22.57:364][108]LogSavePackage: Moving output files for package: /Game/Blueprints/Bâtiment/BP_QuartierGeneral
+[2023.04.11-13.22.57:364][108]LogSavePackage: Moving '../../../../../../Users/lilia/OneDrive/Documents/Prog/Projet-UnrealStrat/StratGame/Saved/BP_QuartierGeneralE737D7E74E5A6E61C28D858731E9C442.tmp' to '../../../../../../Users/lilia/OneDrive/Documents/Prog/Projet-UnrealStrat/StratGame/Content/Blueprints/Bâtiment/BP_QuartierGeneral.uasset'
+[2023.04.11-13.22.57:371][108]LogFileHelpers: InternalPromptForCheckoutAndSave took 73 ms (total: 2.30 sec)
+[2023.04.11-13.22.57:376][108]AssetCheck: New page: Asset Save: BP_QuartierGeneral
+[2023.04.11-13.22.57:376][108]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/Bâtiment/BP_QuartierGeneral.BP_QuartierGeneral
+[2023.04.11-13.25.35:418][568]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.04.11-13.25.35:522][568]LogSavePackage: Moving output files for package: /Game/Blueprints/Bâtiment/BP_QuartierGeneral
+[2023.04.11-13.25.35:523][568]LogSavePackage: Moving '../../../../../../Users/lilia/OneDrive/Documents/Prog/Projet-UnrealStrat/StratGame/Saved/BP_QuartierGeneral7340FF8F48C89340A0EED98A1126C9BC.tmp' to '../../../../../../Users/lilia/OneDrive/Documents/Prog/Projet-UnrealStrat/StratGame/Content/Blueprints/Bâtiment/BP_QuartierGeneral.uasset'
+[2023.04.11-13.25.35:529][568]LogFileHelpers: InternalPromptForCheckoutAndSave took 110 ms (total: 2.41 sec)
+[2023.04.11-13.25.35:537][568]AssetCheck: New page: Asset Save: BP_QuartierGeneral
+[2023.04.11-13.25.35:537][568]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/Bâtiment/BP_QuartierGeneral.BP_QuartierGeneral
+[2023.04.11-13.25.37:692][698]BlueprintLog: New page: Compile BP_QuartierGeneral
+[2023.04.11-13.25.37:737][698]LogUObjectHash: Compacting FUObjectHashTables data took   1.41ms
+[2023.04.11-13.25.38:556][746]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.04.11-13.25.38:661][746]LogSavePackage: Moving output files for package: /Game/Blueprints/Bâtiment/BP_QuartierGeneral
+[2023.04.11-13.25.38:662][746]LogSavePackage: Moving '../../../../../../Users/lilia/OneDrive/Documents/Prog/Projet-UnrealStrat/StratGame/Saved/BP_QuartierGeneralB2370F034C0F16BF8253799783FFF951.tmp' to '../../../../../../Users/lilia/OneDrive/Documents/Prog/Projet-UnrealStrat/StratGame/Content/Blueprints/Bâtiment/BP_QuartierGeneral.uasset'
+[2023.04.11-13.25.38:669][746]LogFileHelpers: InternalPromptForCheckoutAndSave took 112 ms (total: 2.52 sec)
+[2023.04.11-13.25.38:674][746]AssetCheck: New page: Asset Save: BP_QuartierGeneral
+[2023.04.11-13.25.38:674][746]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/Bâtiment/BP_QuartierGeneral.BP_QuartierGeneral
+[2023.04.11-13.25.58:906][959]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.04.11-13.25.58:977][959]LogSavePackage: Moving output files for package: /Game/Blueprints/Bâtiment/BP_QuartierGeneral
+[2023.04.11-13.25.58:977][959]LogSavePackage: Moving '../../../../../../Users/lilia/OneDrive/Documents/Prog/Projet-UnrealStrat/StratGame/Saved/BP_QuartierGeneral8102BB5043B13CBD3795ED84420795AA.tmp' to '../../../../../../Users/lilia/OneDrive/Documents/Prog/Projet-UnrealStrat/StratGame/Content/Blueprints/Bâtiment/BP_QuartierGeneral.uasset'
+[2023.04.11-13.25.58:984][959]LogFileHelpers: InternalPromptForCheckoutAndSave took 77 ms (total: 2.60 sec)
+[2023.04.11-13.25.58:990][959]AssetCheck: New page: Asset Save: BP_QuartierGeneral
+[2023.04.11-13.25.58:990][959]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/Bâtiment/BP_QuartierGeneral.BP_QuartierGeneral
+[2023.04.11-13.26.49:704][941]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.04.11-13.26.49:792][941]LogSavePackage: Moving output files for package: /Game/Blueprints/Bâtiment/BP_QuartierGeneral
+[2023.04.11-13.26.49:792][941]LogSavePackage: Moving '../../../../../../Users/lilia/OneDrive/Documents/Prog/Projet-UnrealStrat/StratGame/Saved/BP_QuartierGeneral4453BD07422928B63068D7A37E5DAA75.tmp' to '../../../../../../Users/lilia/OneDrive/Documents/Prog/Projet-UnrealStrat/StratGame/Content/Blueprints/Bâtiment/BP_QuartierGeneral.uasset'
+[2023.04.11-13.26.49:799][941]LogFileHelpers: InternalPromptForCheckoutAndSave took 95 ms (total: 2.70 sec)
+[2023.04.11-13.26.49:805][941]AssetCheck: New page: Asset Save: BP_QuartierGeneral
+[2023.04.11-13.26.49:805][941]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/Bâtiment/BP_QuartierGeneral.BP_QuartierGeneral
+[2023.04.11-13.26.54:512][221]BlueprintLog: New page: Compile BP_QuartierGeneral
+[2023.04.11-13.26.54:558][221]LogUObjectHash: Compacting FUObjectHashTables data took   1.35ms
+[2023.04.11-13.33.07:580][187]LogSlate: Took 0.000161 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2023.04.11-13.33.09:098][278]LogAssetEditorSubsystem: Opening Asset editor for LevelScriptBlueprint /Game/MyFirstRTS/Maps/RockyLevel.RockyLevel:PersistentLevel.RockyLevel
+[2023.04.11-13.33.09:099][278]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.04.11-13.33.09:099][278]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.04.11-13.34.31:248][ 71]LogEditorTransaction: Undo Delete current selection
+[2023.04.11-13.34.31:292][ 71]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.04.11-13.34.57:612][608]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.04.11-13.34.57:673][608]LogFileHelpers: No new changes to save!
+[2023.04.11-13.34.57:704][608]LogUObjectHash: Compacting FUObjectHashTables data took   1.69ms
+[2023.04.11-13.34.57:708][608]LogSavePackage: Moving output files for package: /Game/MyFirstRTS/Maps/RockyLevel
+[2023.04.11-13.34.57:709][608]LogSavePackage: Moving '../../../../../../Users/lilia/OneDrive/Documents/Prog/Projet-UnrealStrat/StratGame/Saved/RockyLevel6B14F14E4B792164FF4204AFC1D280B1.tmp' to '../../../../../../Users/lilia/OneDrive/Documents/Prog/Projet-UnrealStrat/StratGame/Content/MyFirstRTS/Maps/RockyLevel.umap'
+[2023.04.11-13.34.57:716][608]LogFileHelpers: Saving map 'RockyLevel' took 0.043
+[2023.04.11-13.34.57:724][608]LogFileHelpers: InternalPromptForCheckoutAndSave took 111 ms (total: 2.81 sec)
+[2023.04.11-13.34.57:731][608]AssetCheck: New page: Asset Save: RockyLevel
+[2023.04.11-13.34.57:731][608]LogContentValidation: Display: Validating /Script/Engine.World /Game/MyFirstRTS/Maps/RockyLevel.RockyLevel
+[2023.04.11-13.34.59:074][689]BlueprintLog: New page: Compile RockyLevel
+[2023.04.11-13.34.59:076][689]LogBlueprint: Error: [AssetLog] C:\Users\lilia\OneDrive\Documents\Prog\Projet-UnrealStrat\StratGame\Content\MyFirstRTS\Maps\RockyLevel.umap: [Compiler] This blueprint (self) is not a BP_Mine_C, therefore ' Target ' must have a connection.
+[2023.04.11-13.34.59:076][689]LogBlueprint: Error: [AssetLog] C:\Users\lilia\OneDrive\Documents\Prog\Projet-UnrealStrat\StratGame\Content\MyFirstRTS\Maps\RockyLevel.umap: [Compiler] The current value (0.0) of the ' Rdm Prod Actu ' pin is invalid: 'Rdm Prod Actu' in action 'Construction Mine' must have an input wired into it ("by ref" params expect a valid input to operate on).
+[2023.04.11-13.34.59:077][689]LogBlueprint: Error: [AssetLog] C:\Users\lilia\OneDrive\Documents\Prog\Projet-UnrealStrat\StratGame\Content\MyFirstRTS\Maps\RockyLevel.umap: [Compiler] The current value (0.0) of the ' Rdm Fer ' pin is invalid: 'Rdm Fer' in action 'Construction Mine' must have an input wired into it ("by ref" params expect a valid input to operate on).
+[2023.04.11-13.34.59:104][689]LogUObjectHash: Compacting FUObjectHashTables data took   1.14ms
+[2023.04.11-13.35.02:808][902]LogSlate: Window 'RockyLevel' being destroyed
+[2023.04.11-13.35.11:267][395]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Blueprints/Bâtiment/BP_QuartierGeneral.BP_QuartierGeneral_C
+[2023.04.11-13.35.11:267][395]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Blueprints/Bâtiment/BP_QuartierGeneral.BP_QuartierGeneral_C
+[2023.04.11-13.35.11:269][395]LogActorFactory: Actor Factory spawned Blueprint /Game/Blueprints/Bâtiment/BP_QuartierGeneral.BP_QuartierGeneral as actor: BP_QuartierGeneral_C /Game/MyFirstRTS/Maps/RockyLevel.RockyLevel:PersistentLevel.BP_QuartierGeneral_C_0
+[2023.04.11-13.35.11:270][395]LogActorFactory: Actor Factory spawned Blueprint /Game/Blueprints/Bâtiment/BP_QuartierGeneral.BP_QuartierGeneral as actor: BP_QuartierGeneral_C /Game/MyFirstRTS/Maps/RockyLevel.RockyLevel:PersistentLevel.BP_QuartierGeneral_C_0
+[2023.04.11-13.35.11:276][396]LogActorFactory: Loading ActorFactory Class /Script/Engine.LevelInstance
+[2023.04.11-13.35.12:190][440]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Blueprints/Bâtiment/BP_QuartierGeneral.BP_QuartierGeneral_C
+[2023.04.11-13.35.12:190][440]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Blueprints/Bâtiment/BP_QuartierGeneral.BP_QuartierGeneral_C
+[2023.04.11-13.35.12:195][440]LogActorFactory: Actor Factory spawned Blueprint /Game/Blueprints/Bâtiment/BP_QuartierGeneral.BP_QuartierGeneral as actor: BP_QuartierGeneral_C /Game/MyFirstRTS/Maps/RockyLevel.RockyLevel:PersistentLevel.BP_QuartierGeneral_C_UAID_A46BB608C892217801_2059441687
+[2023.04.11-13.35.12:196][440]LogActorFactory: Actor Factory spawned Blueprint /Game/Blueprints/Bâtiment/BP_QuartierGeneral.BP_QuartierGeneral as actor: BP_QuartierGeneral_C /Game/MyFirstRTS/Maps/RockyLevel.RockyLevel:PersistentLevel.BP_QuartierGeneral_C_UAID_A46BB608C892217801_2059441687
+[2023.04.11-13.35.23:583][119]Cmd: TRANSACTION UNDO
+[2023.04.11-13.35.23:584][119]LogEditorTransaction: Undo Move Elements
+[2023.04.11-13.35.23:625][119]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.04.11-13.35.26:500][280]LogViewport: Scene viewport resized to 1139x687, mode Windowed.
+[2023.04.11-13.35.30:332][506]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.04.11-13.35.30:397][508]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.04.11-13.36.02:784][445]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.04.11-13.36.02:859][445]LogSavePackage: Moving output files for package: /Game/Blueprints/Bâtiment/BP_QuartierGeneral
+[2023.04.11-13.36.02:859][445]LogSavePackage: Moving '../../../../../../Users/lilia/OneDrive/Documents/Prog/Projet-UnrealStrat/StratGame/Saved/BP_QuartierGeneral3C81344649567DEDF9CAB5B9FA86C6B9.tmp' to '../../../../../../Users/lilia/OneDrive/Documents/Prog/Projet-UnrealStrat/StratGame/Content/Blueprints/Bâtiment/BP_QuartierGeneral.uasset'
+[2023.04.11-13.36.02:866][445]LogFileHelpers: InternalPromptForCheckoutAndSave took 81 ms (total: 2.89 sec)
+[2023.04.11-13.36.02:872][445]AssetCheck: New page: Asset Save: BP_QuartierGeneral
+[2023.04.11-13.36.02:872][445]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/Bâtiment/BP_QuartierGeneral.BP_QuartierGeneral
+[2023.04.11-13.36.05:313][591]LogViewport: Scene viewport resized to 1139x687, mode Windowed.
+[2023.04.11-13.36.20:818][516]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.04.11-13.36.20:897][516]LogSavePackage: Moving output files for package: /Game/Blueprints/Bâtiment/BP_Mine
+[2023.04.11-13.36.20:897][516]LogSavePackage: Moving '../../../../../../Users/lilia/OneDrive/Documents/Prog/Projet-UnrealStrat/StratGame/Saved/BP_Mine1B1B58FF4F9CEC3641E3898FCB50BA69.tmp' to '../../../../../../Users/lilia/OneDrive/Documents/Prog/Projet-UnrealStrat/StratGame/Content/Blueprints/Bâtiment/BP_Mine.uasset'
+[2023.04.11-13.36.20:904][516]LogFileHelpers: InternalPromptForCheckoutAndSave took 86 ms (total: 2.98 sec)
+[2023.04.11-13.36.20:910][516]AssetCheck: New page: Asset Save: BP_Mine
+[2023.04.11-13.36.20:910][516]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/Bâtiment/BP_Mine.BP_Mine
+[2023.04.11-13.36.23:190][653]BlueprintLog: New page: Compile BP_Mine
+[2023.04.11-13.36.23:248][653]LogUObjectHash: Compacting FUObjectHashTables data took   1.11ms
+[2023.04.11-13.36.23:972][694]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.04.11-13.36.24:050][694]LogSavePackage: Moving output files for package: /Game/Blueprints/Bâtiment/BP_Mine
+[2023.04.11-13.36.24:051][694]LogSavePackage: Moving '../../../../../../Users/lilia/OneDrive/Documents/Prog/Projet-UnrealStrat/StratGame/Saved/BP_Mine4F7819124E5EDBD0B9B8E59A4F9B4DE3.tmp' to '../../../../../../Users/lilia/OneDrive/Documents/Prog/Projet-UnrealStrat/StratGame/Content/Blueprints/Bâtiment/BP_Mine.uasset'
+[2023.04.11-13.36.24:058][694]LogFileHelpers: InternalPromptForCheckoutAndSave took 86 ms (total: 3.06 sec)
+[2023.04.11-13.36.24:063][694]AssetCheck: New page: Asset Save: BP_Mine
+[2023.04.11-13.36.24:063][694]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/Bâtiment/BP_Mine.BP_Mine
+[2023.04.11-13.36.25:887][804]BlueprintLog: New page: Compile BP_QuartierGeneral
+[2023.04.11-13.36.25:940][804]LogUObjectHash: Compacting FUObjectHashTables data took   1.44ms
+[2023.04.11-13.36.26:643][843]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.04.11-13.36.26:734][843]LogSavePackage: Moving output files for package: /Game/Blueprints/Bâtiment/BP_QuartierGeneral
+[2023.04.11-13.36.26:735][843]LogSavePackage: Moving '../../../../../../Users/lilia/OneDrive/Documents/Prog/Projet-UnrealStrat/StratGame/Saved/BP_QuartierGeneralE2DD2B0D4C2CC4DF010F888B5813FD9C.tmp' to '../../../../../../Users/lilia/OneDrive/Documents/Prog/Projet-UnrealStrat/StratGame/Content/Blueprints/Bâtiment/BP_QuartierGeneral.uasset'
+[2023.04.11-13.36.26:743][843]LogFileHelpers: InternalPromptForCheckoutAndSave took 99 ms (total: 3.16 sec)
+[2023.04.11-13.36.26:749][843]AssetCheck: New page: Asset Save: BP_QuartierGeneral
+[2023.04.11-13.36.26:749][843]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/Bâtiment/BP_QuartierGeneral.BP_QuartierGeneral
+[2023.04.11-13.36.35:178][346]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.04.11-13.36.35:261][346]LogUObjectHash: Compacting FUObjectHashTables data took   1.74ms
+[2023.04.11-13.36.35:268][346]LogSavePackage: Moving output files for package: /Game/MyFirstRTS/Maps/RockyLevel
+[2023.04.11-13.36.35:269][346]LogSavePackage: Moving '../../../../../../Users/lilia/OneDrive/Documents/Prog/Projet-UnrealStrat/StratGame/Saved/RockyLevelD8FF546B46D13E185ED0BE8176C42E56.tmp' to '../../../../../../Users/lilia/OneDrive/Documents/Prog/Projet-UnrealStrat/StratGame/Content/MyFirstRTS/Maps/RockyLevel.umap'
+[2023.04.11-13.36.35:276][346]LogFileHelpers: Saving map 'RockyLevel' took 0.042
+[2023.04.11-13.36.35:278][346]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/MyFirstRTS/Maps/RockyLevel/C/ET/5I0S4I7R6JKN7HRZVW4M04
+[2023.04.11-13.36.35:278][346]LogSavePackage: Moving '../../../../../../Users/lilia/OneDrive/Documents/Prog/Projet-UnrealStrat/StratGame/Saved/5I0S4I7R6JKN7HRZVW4M0491A527154A37FA14ACCFB29960BE1407.tmp' to '../../../../../../Users/lilia/OneDrive/Documents/Prog/Projet-UnrealStrat/StratGame/Content/__ExternalActors__/MyFirstRTS/Maps/RockyLevel/C/ET/5I0S4I7R6JKN7HRZVW4M04.uasset'
+[2023.04.11-13.36.35:293][346]LogFileHelpers: InternalPromptForCheckoutAndSave took 115 ms (total: 3.28 sec)
+[2023.04.11-13.36.35:300][346]AssetCheck: New page: Asset Save: multiple assets
+[2023.04.11-13.36.35:300][346]LogContentValidation: Display: Validating /Script/Engine.World /Game/MyFirstRTS/Maps/RockyLevel.RockyLevel
+[2023.04.11-13.36.35:300][346]LogContentValidation: Display: Validating /Game/Blueprints/Bâtiment/BP_QuartierGeneral.BP_QuartierGeneral_C /Game/MyFirstRTS/Maps/RockyLevel.RockyLevel:PersistentLevel.BP_QuartierGeneral_C_UAID_A46BB608C892217801_2059441687
+[2023.04.11-13.38.39:470][680]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.04.11-13.38.39:537][680]LogFileHelpers: No new changes to save!
+[2023.04.11-13.38.39:561][680]LogUObjectHash: Compacting FUObjectHashTables data took   1.21ms
+[2023.04.11-13.38.39:571][680]LogSavePackage: Moving output files for package: /Game/MyFirstRTS/Maps/RockyLevel
+[2023.04.11-13.38.39:572][680]LogSavePackage: Moving '../../../../../../Users/lilia/OneDrive/Documents/Prog/Projet-UnrealStrat/StratGame/Saved/RockyLevel6671D0AC4FCEFFF1695A679531332101.tmp' to '../../../../../../Users/lilia/OneDrive/Documents/Prog/Projet-UnrealStrat/StratGame/Content/MyFirstRTS/Maps/RockyLevel.umap'
+[2023.04.11-13.38.39:579][680]LogFileHelpers: Saving map 'RockyLevel' took 0.042
+[2023.04.11-13.38.39:588][680]LogFileHelpers: InternalPromptForCheckoutAndSave took 118 ms (total: 3.40 sec)
+[2023.04.11-13.38.39:595][680]AssetCheck: New page: Asset Save: RockyLevel
+[2023.04.11-13.38.39:595][680]LogContentValidation: Display: Validating /Script/Engine.World /Game/MyFirstRTS/Maps/RockyLevel.RockyLevel
+[2023.04.11-13.38.47:602][161]BlueprintLog: New page: Compile RockyLevel
+[2023.04.11-13.38.47:604][161]LogBlueprint: Error: [AssetLog] C:\Users\lilia\OneDrive\Documents\Prog\Projet-UnrealStrat\StratGame\Content\MyFirstRTS\Maps\RockyLevel.umap: [Compiler] This blueprint (self) is not a BP_Mine_C, therefore ' Target ' must have a connection.
+[2023.04.11-13.38.47:652][161]LogUObjectHash: Compacting FUObjectHashTables data took   1.57ms
+[2023.04.11-13.39.53:332][ 72]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.04.11-13.39.53:408][ 72]LogFileHelpers: No new changes to save!
+[2023.04.11-13.39.53:433][ 72]LogUObjectHash: Compacting FUObjectHashTables data took   1.40ms
+[2023.04.11-13.39.53:441][ 72]LogSavePackage: Moving output files for package: /Game/MyFirstRTS/Maps/RockyLevel
+[2023.04.11-13.39.53:442][ 72]LogSavePackage: Moving '../../../../../../Users/lilia/OneDrive/Documents/Prog/Projet-UnrealStrat/StratGame/Saved/RockyLevel0792420E4D4FCF61938F938D315398BA.tmp' to '../../../../../../Users/lilia/OneDrive/Documents/Prog/Projet-UnrealStrat/StratGame/Content/MyFirstRTS/Maps/RockyLevel.umap'
+[2023.04.11-13.39.53:451][ 72]LogFileHelpers: Saving map 'RockyLevel' took 0.044
+[2023.04.11-13.39.53:459][ 72]LogFileHelpers: InternalPromptForCheckoutAndSave took 128 ms (total: 3.52 sec)
+[2023.04.11-13.39.53:466][ 72]AssetCheck: New page: Asset Save: RockyLevel
+[2023.04.11-13.39.53:466][ 72]LogContentValidation: Display: Validating /Script/Engine.World /Game/MyFirstRTS/Maps/RockyLevel.RockyLevel
+[2023.04.11-13.39.54:071][109]BlueprintLog: New page: Compile RockyLevel
+[2023.04.11-13.39.54:119][109]LogUObjectHash: Compacting FUObjectHashTables data took   1.43ms
+[2023.04.11-13.39.58:149][350]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.04.11-13.39.58:213][350]LogFileHelpers: No new changes to save!
+[2023.04.11-13.39.58:236][350]LogUObjectHash: Compacting FUObjectHashTables data took   1.37ms
+[2023.04.11-13.39.58:243][350]LogSavePackage: Moving output files for package: /Game/MyFirstRTS/Maps/RockyLevel
+[2023.04.11-13.39.58:243][350]LogSavePackage: Moving '../../../../../../Users/lilia/OneDrive/Documents/Prog/Projet-UnrealStrat/StratGame/Saved/RockyLevel2EA49E524C69CB6B1F5F379ABFE543F4.tmp' to '../../../../../../Users/lilia/OneDrive/Documents/Prog/Projet-UnrealStrat/StratGame/Content/MyFirstRTS/Maps/RockyLevel.umap'
+[2023.04.11-13.39.58:250][350]LogFileHelpers: Saving map 'RockyLevel' took 0.038
+[2023.04.11-13.39.58:259][350]LogFileHelpers: InternalPromptForCheckoutAndSave took 110 ms (total: 3.63 sec)
+[2023.04.11-13.39.58:266][350]AssetCheck: New page: Asset Save: RockyLevel
+[2023.04.11-13.39.58:266][350]LogContentValidation: Display: Validating /Script/Engine.World /Game/MyFirstRTS/Maps/RockyLevel.RockyLevel
+[2023.04.11-13.40.28:878][184]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.04.11-13.40.28:950][184]LogFileHelpers: No new changes to save!
+[2023.04.11-13.40.28:974][184]LogUObjectHash: Compacting FUObjectHashTables data took   0.99ms
+[2023.04.11-13.40.28:982][184]LogSavePackage: Moving output files for package: /Game/MyFirstRTS/Maps/RockyLevel
+[2023.04.11-13.40.28:982][184]LogSavePackage: Moving '../../../../../../Users/lilia/OneDrive/Documents/Prog/Projet-UnrealStrat/StratGame/Saved/RockyLevelC04F4E6A45FB88AEBE88B3B8DBAEB0BA.tmp' to '../../../../../../Users/lilia/OneDrive/Documents/Prog/Projet-UnrealStrat/StratGame/Content/MyFirstRTS/Maps/RockyLevel.umap'
+[2023.04.11-13.40.28:989][184]LogFileHelpers: Saving map 'RockyLevel' took 0.039
+[2023.04.11-13.40.28:996][184]LogFileHelpers: InternalPromptForCheckoutAndSave took 118 ms (total: 3.75 sec)
+[2023.04.11-13.40.29:002][184]AssetCheck: New page: Asset Save: RockyLevel
+[2023.04.11-13.40.29:002][184]LogContentValidation: Display: Validating /Script/Engine.World /Game/MyFirstRTS/Maps/RockyLevel.RockyLevel
+[2023.04.11-13.40.30:141][253]BlueprintLog: New page: Compile RockyLevel
+[2023.04.11-13.40.30:191][253]LogUObjectHash: Compacting FUObjectHashTables data took   1.51ms
+[2023.04.11-13.40.30:700][283]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.04.11-13.40.30:776][283]LogFileHelpers: No new changes to save!
+[2023.04.11-13.40.30:800][283]LogUObjectHash: Compacting FUObjectHashTables data took   1.05ms
+[2023.04.11-13.40.30:806][283]LogSavePackage: Moving output files for package: /Game/MyFirstRTS/Maps/RockyLevel
+[2023.04.11-13.40.30:807][283]LogSavePackage: Moving '../../../../../../Users/lilia/OneDrive/Documents/Prog/Projet-UnrealStrat/StratGame/Saved/RockyLevelC69EF4B54EA0EDA769E482B02444BC64.tmp' to '../../../../../../Users/lilia/OneDrive/Documents/Prog/Projet-UnrealStrat/StratGame/Content/MyFirstRTS/Maps/RockyLevel.umap'
+[2023.04.11-13.40.30:815][283]LogFileHelpers: Saving map 'RockyLevel' took 0.039
+[2023.04.11-13.40.30:822][283]LogFileHelpers: InternalPromptForCheckoutAndSave took 121 ms (total: 3.87 sec)
+[2023.04.11-13.40.30:828][283]AssetCheck: New page: Asset Save: RockyLevel
+[2023.04.11-13.40.30:828][283]LogContentValidation: Display: Validating /Script/Engine.World /Game/MyFirstRTS/Maps/RockyLevel.RockyLevel
+[2023.04.11-13.42.14:388][ 68]LogOutputDevice: Warning: 
+
+Script Stack (0 frames) :
+
+[2023.04.11-13.42.14:442][ 68]LogStats: FPlatformStackWalk::StackWalkAndDump -  0.053 s
+[2023.04.11-13.42.14:442][ 68]LogOutputDevice: Error: === Handled ensure: ===
+[2023.04.11-13.42.14:442][ 68]LogOutputDevice: Error: 
+[2023.04.11-13.42.14:442][ 68]LogOutputDevice: Error: Ensure condition failed: !bGraphDataInvalid  [File:D:\build\++UE5\Sync\Engine\Source\Editor\GraphEditor\Private\SGraphPin.cpp] [Line: 905] 
+[2023.04.11-13.42.14:442][ 68]LogOutputDevice: Error: The Graph Pin Object has been invalidated. Someone is keeping a hard ref on the SGraphPin (SGraphPin [NodeFactory.cpp(266)]). See InvalidateGraphData for more info
+[2023.04.11-13.42.14:442][ 68]LogOutputDevice: Error: Stack: 
+[2023.04.11-13.42.14:442][ 68]LogOutputDevice: Error: [Callstack] 0x00007ffe06335691 UnrealEditor-GraphEditor.dll!UnknownFunction []
+[2023.04.11-13.42.14:442][ 68]LogOutputDevice: Error: [Callstack] 0x00007ffe0626daf2 UnrealEditor-GraphEditor.dll!UnknownFunction []
+[2023.04.11-13.42.14:442][ 68]LogOutputDevice: Error: [Callstack] 0x00007ffe0628b2d6 UnrealEditor-GraphEditor.dll!UnknownFunction []
+[2023.04.11-13.42.14:442][ 68]LogOutputDevice: Error: [Callstack] 0x00007ffe0614d796 UnrealEditor-GraphEditor.dll!UnknownFunction []
+[2023.04.11-13.42.14:442][ 68]LogOutputDevice: Error: [Callstack] 0x00007ffe06128313 UnrealEditor-GraphEditor.dll!UnknownFunction []
+[2023.04.11-13.42.14:442][ 68]LogOutputDevice: Error: [Callstack] 0x00007ffe58738b92 UnrealEditor-SlateCore.dll!UnknownFunction []
+[2023.04.11-13.42.14:442][ 68]LogOutputDevice: Error: [Callstack] 0x00007ffe58738f89 UnrealEditor-SlateCore.dll!UnknownFunction []
+[2023.04.11-13.42.14:442][ 68]LogOutputDevice: Error: [Callstack] 0x00007ffe58739189 UnrealEditor-SlateCore.dll!UnknownFunction []
+[2023.04.11-13.42.14:442][ 68]LogOutputDevice: Error: [Callstack] 0x00007ffe586fb277 UnrealEditor-SlateCore.dll!UnknownFunction []
+[2023.04.11-13.42.14:442][ 68]LogOutputDevice: Error: [Callstack] 0x00007ffe58533e79 UnrealEditor-SlateCore.dll!UnknownFunction []
+[2023.04.11-13.42.14:442][ 68]LogOutputDevice: Error: [Callstack] 0x00007ffe58533f5f UnrealEditor-SlateCore.dll!UnknownFunction []
+[2023.04.11-13.42.14:442][ 68]LogOutputDevice: Error: [Callstack] 0x00007ffe5853369c UnrealEditor-SlateCore.dll!UnknownFunction []
+[2023.04.11-13.42.14:442][ 68]LogOutputDevice: Error: [Callstack] 0x00007ffe58566c3a UnrealEditor-SlateCore.dll!UnknownFunction []
+[2023.04.11-13.42.14:442][ 68]LogOutputDevice: Error: [Callstack] 0x00007ffe58bbdbd8 UnrealEditor-Slate.dll!UnknownFunction []
+[2023.04.11-13.42.14:442][ 68]LogOutputDevice: Error: [Callstack] 0x00007ffe58c806bc UnrealEditor-Slate.dll!UnknownFunction []
+[2023.04.11-13.42.14:442][ 68]LogOutputDevice: Error: [Callstack] 0x00007ffe58baa50b UnrealEditor-Slate.dll!UnknownFunction []
+[2023.04.11-13.42.14:442][ 68]LogOutputDevice: Error: [Callstack] 0x00007ffe58bbd6ed UnrealEditor-Slate.dll!UnknownFunction []
+[2023.04.11-13.42.14:442][ 68]LogOutputDevice: Error: [Callstack] 0x00007ffe58bbde30 UnrealEditor-Slate.dll!UnknownFunction []
+[2023.04.11-13.42.14:442][ 68]LogOutputDevice: Error: [Callstack] 0x00007ffe58bb7d1d UnrealEditor-Slate.dll!UnknownFunction []
+[2023.04.11-13.42.14:442][ 68]LogOutputDevice: Error: [Callstack] 0x00007ffe58ba7766 UnrealEditor-Slate.dll!UnknownFunction []
+[2023.04.11-13.42.14:442][ 68]LogOutputDevice: Error: [Callstack] 0x00007ffe58b9ce90 UnrealEditor-Slate.dll!UnknownFunction []
+[2023.04.11-13.42.14:442][ 68]LogOutputDevice: Error: [Callstack] 0x00007ffea6fc0d16 UnrealEditor-ApplicationCore.dll!UnknownFunction []
+[2023.04.11-13.42.14:442][ 68]LogOutputDevice: Error: [Callstack] 0x00007ffea6fa6ba1 UnrealEditor-ApplicationCore.dll!UnknownFunction []
+[2023.04.11-13.42.14:442][ 68]LogOutputDevice: Error: [Callstack] 0x00007ffea6fc38d7 UnrealEditor-ApplicationCore.dll!UnknownFunction []
+[2023.04.11-13.42.14:442][ 68]LogOutputDevice: Error: [Callstack] 0x00007ffea6fa0223 UnrealEditor-ApplicationCore.dll!UnknownFunction []
+[2023.04.11-13.42.14:442][ 68]LogOutputDevice: Error: [Callstack] 0x00007ffec4c6e7e8 USER32.dll!UnknownFunction []
+[2023.04.11-13.42.14:442][ 68]LogOutputDevice: Error: [Callstack] 0x00007ffec4c6e47e USER32.dll!UnknownFunction []
+[2023.04.11-13.42.14:442][ 68]LogOutputDevice: Error: [Callstack] 0x00007ffdb5537e59 InkObj.dll!UnknownFunction []
+[2023.04.11-13.42.14:442][ 68]LogOutputDevice: Error: [Callstack] 0x00007ffebbb81028 atlthunk.dll!UnknownFunction []
+[2023.04.11-13.42.14:442][ 68]LogOutputDevice: Error: [Callstack] 0x00007ffec4c6e7e8 USER32.dll!UnknownFunction []
+[2023.04.11-13.42.14:442][ 68]LogOutputDevice: Error: [Callstack] 0x00007ffec4c6e229 USER32.dll!UnknownFunction []
+[2023.04.11-13.42.14:442][ 68]LogOutputDevice: Error: [Callstack] 0x00007ffea6fc4c66 UnrealEditor-ApplicationCore.dll!UnknownFunction []
+[2023.04.11-13.42.14:442][ 68]LogOutputDevice: Error: [Callstack] 0x00007ff6e53f7433 UnrealEditor.exe!UnknownFunction []
+[2023.04.11-13.42.14:442][ 68]LogOutputDevice: Error: [Callstack] 0x00007ff6e5414fcc UnrealEditor.exe!UnknownFunction []
+[2023.04.11-13.42.14:442][ 68]LogOutputDevice: Error: [Callstack] 0x00007ff6e54150ba UnrealEditor.exe!UnknownFunction []
+[2023.04.11-13.42.14:442][ 68]LogOutputDevice: Error: [Callstack] 0x00007ff6e5417df0 UnrealEditor.exe!UnknownFunction []
+[2023.04.11-13.42.14:442][ 68]LogOutputDevice: Error: [Callstack] 0x00007ff6e542afd4 UnrealEditor.exe!UnknownFunction []
+[2023.04.11-13.42.14:442][ 68]LogOutputDevice: Error: [Callstack] 0x00007ff6e542e4e6 UnrealEditor.exe!UnknownFunction []
+[2023.04.11-13.42.14:442][ 68]LogOutputDevice: Error: [Callstack] 0x00007ffec4a07614 KERNEL32.DLL!UnknownFunction []
+[2023.04.11-13.42.14:442][ 68]LogOutputDevice: Error: [Callstack] 0x00007ffec56c26a1 ntdll.dll!UnknownFunction []
+[2023.04.11-13.42.14:442][ 68]LogOutputDevice: Error: 
+[2023.04.11-13.42.14:447][ 68]LogStats:                SubmitErrorReport -  0.000 s
+[2023.04.11-13.42.15:364][ 68]LogStats:                    SendNewReport -  0.918 s
+[2023.04.11-13.42.15:365][ 68]LogStats:             FDebug::EnsureFailed -  0.976 s
+[2023.04.11-13.42.58:256][627]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.04.11-13.43.17:592][761]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/Bâtiment/BP_Ferme.BP_Ferme
+[2023.04.11-13.43.17:592][761]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.04.11-13.43.17:592][761]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.04.11-13.43.23:485][109]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.04.11-13.43.23:582][109]LogSavePackage: Moving output files for package: /Game/Blueprints/Bâtiment/BP_Ferme
+[2023.04.11-13.43.23:582][109]LogSavePackage: Moving '../../../../../../Users/lilia/OneDrive/Documents/Prog/Projet-UnrealStrat/StratGame/Saved/BP_FermeAD3C0E8B4B66C5B262BC148597247F7D.tmp' to '../../../../../../Users/lilia/OneDrive/Documents/Prog/Projet-UnrealStrat/StratGame/Content/Blueprints/Bâtiment/BP_Ferme.uasset'
+[2023.04.11-13.43.23:588][109]LogFileHelpers: InternalPromptForCheckoutAndSave took 104 ms (total: 3.98 sec)
+[2023.04.11-13.43.23:596][109]AssetCheck: New page: Asset Save: BP_Ferme
+[2023.04.11-13.43.23:597][109]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/Bâtiment/BP_Ferme.BP_Ferme
+[2023.04.11-13.43.24:002][134]BlueprintLog: New page: Compile BP_Ferme
+[2023.04.11-13.43.24:048][134]LogUObjectHash: Compacting FUObjectHashTables data took   1.48ms
+[2023.04.11-13.43.24:668][170]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.04.11-13.43.24:754][170]LogSavePackage: Moving output files for package: /Game/Blueprints/Bâtiment/BP_Ferme
+[2023.04.11-13.43.24:755][170]LogSavePackage: Moving '../../../../../../Users/lilia/OneDrive/Documents/Prog/Projet-UnrealStrat/StratGame/Saved/BP_Ferme7597C6AA423EADAD83A0FFBE2BDB06AF.tmp' to '../../../../../../Users/lilia/OneDrive/Documents/Prog/Projet-UnrealStrat/StratGame/Content/Blueprints/Bâtiment/BP_Ferme.uasset'
+[2023.04.11-13.43.24:762][170]LogFileHelpers: InternalPromptForCheckoutAndSave took 94 ms (total: 4.07 sec)
+[2023.04.11-13.43.24:767][170]AssetCheck: New page: Asset Save: BP_Ferme
+[2023.04.11-13.43.24:767][170]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/Bâtiment/BP_Ferme.BP_Ferme
+[2023.04.11-13.44.39:568][650]LogDerivedDataCache: C:/Users/lilia/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:10.096 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 5676 files in 6870 folders with total size 187 MiB.
+[2023.04.11-13.45.23:113][235]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.04.11-13.45.23:176][235]LogFileHelpers: No new changes to save!
+[2023.04.11-13.45.23:201][235]LogUObjectHash: Compacting FUObjectHashTables data took   1.54ms
+[2023.04.11-13.45.23:209][235]LogSavePackage: Moving output files for package: /Game/MyFirstRTS/Maps/RockyLevel
+[2023.04.11-13.45.23:210][235]LogSavePackage: Moving '../../../../../../Users/lilia/OneDrive/Documents/Prog/Projet-UnrealStrat/StratGame/Saved/RockyLevel3FBEC34444A60D97029E2CA3D6F76FE9.tmp' to '../../../../../../Users/lilia/OneDrive/Documents/Prog/Projet-UnrealStrat/StratGame/Content/MyFirstRTS/Maps/RockyLevel.umap'
+[2023.04.11-13.45.23:218][235]LogFileHelpers: Saving map 'RockyLevel' took 0.043
+[2023.04.11-13.45.23:226][235]LogFileHelpers: InternalPromptForCheckoutAndSave took 112 ms (total: 4.19 sec)
+[2023.04.11-13.45.23:232][235]AssetCheck: New page: Asset Save: RockyLevel
+[2023.04.11-13.45.23:232][235]LogContentValidation: Display: Validating /Script/Engine.World /Game/MyFirstRTS/Maps/RockyLevel.RockyLevel
+[2023.04.11-13.45.25:654][381]BlueprintLog: New page: Compile RockyLevel
+[2023.04.11-13.45.25:704][381]LogUObjectHash: Compacting FUObjectHashTables data took   1.14ms
+[2023.04.11-13.45.44:776][515]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.04.11-13.45.44:849][515]LogFileHelpers: No new changes to save!
+[2023.04.11-13.45.44:876][515]LogUObjectHash: Compacting FUObjectHashTables data took   1.34ms
+[2023.04.11-13.45.44:883][515]LogSavePackage: Moving output files for package: /Game/MyFirstRTS/Maps/RockyLevel
+[2023.04.11-13.45.44:883][515]LogSavePackage: Moving '../../../../../../Users/lilia/OneDrive/Documents/Prog/Projet-UnrealStrat/StratGame/Saved/RockyLevelBF202D4A47AEE84EEDE2D1BBD8E250E5.tmp' to '../../../../../../Users/lilia/OneDrive/Documents/Prog/Projet-UnrealStrat/StratGame/Content/MyFirstRTS/Maps/RockyLevel.umap'
+[2023.04.11-13.45.44:891][515]LogFileHelpers: Saving map 'RockyLevel' took 0.041
+[2023.04.11-13.45.44:898][515]LogFileHelpers: InternalPromptForCheckoutAndSave took 122 ms (total: 4.31 sec)
+[2023.04.11-13.45.44:903][515]AssetCheck: New page: Asset Save: RockyLevel
+[2023.04.11-13.45.44:903][515]LogContentValidation: Display: Validating /Script/Engine.World /Game/MyFirstRTS/Maps/RockyLevel.RockyLevel
+[2023.04.11-13.46.13:014][153]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.04.11-13.46.24:187][799]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/Bâtiment/BP_Scierie.BP_Scierie
+[2023.04.11-13.46.24:188][799]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.04.11-13.46.24:188][799]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.04.11-13.46.29:852][133]BlueprintLog: New page: Compile BP_Scierie
+[2023.04.11-13.46.29:898][133]LogUObjectHash: Compacting FUObjectHashTables data took   1.50ms
+[2023.04.11-13.46.30:377][160]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.04.11-13.46.30:465][160]LogSavePackage: Moving output files for package: /Game/Blueprints/Bâtiment/BP_Scierie
+[2023.04.11-13.46.30:466][160]LogSavePackage: Moving '../../../../../../Users/lilia/OneDrive/Documents/Prog/Projet-UnrealStrat/StratGame/Saved/BP_Scierie1BABA27446FED63BC829AEB62A98B9CC.tmp' to '../../../../../../Users/lilia/OneDrive/Documents/Prog/Projet-UnrealStrat/StratGame/Content/Blueprints/Bâtiment/BP_Scierie.uasset'
+[2023.04.11-13.46.30:472][160]LogFileHelpers: InternalPromptForCheckoutAndSave took 96 ms (total: 4.40 sec)
+[2023.04.11-13.46.30:479][160]AssetCheck: New page: Asset Save: BP_Scierie
+[2023.04.11-13.46.30:479][160]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/Bâtiment/BP_Scierie.BP_Scierie
+[2023.04.11-13.46.59:571][898]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.04.11-13.46.59:630][898]LogFileHelpers: No new changes to save!
+[2023.04.11-13.46.59:658][898]LogUObjectHash: Compacting FUObjectHashTables data took   1.62ms
+[2023.04.11-13.46.59:667][898]LogSavePackage: Moving output files for package: /Game/MyFirstRTS/Maps/RockyLevel
+[2023.04.11-13.46.59:668][898]LogSavePackage: Moving '../../../../../../Users/lilia/OneDrive/Documents/Prog/Projet-UnrealStrat/StratGame/Saved/RockyLevelEB53790644B52FD45B2E47A994072F5A.tmp' to '../../../../../../Users/lilia/OneDrive/Documents/Prog/Projet-UnrealStrat/StratGame/Content/MyFirstRTS/Maps/RockyLevel.umap'
+[2023.04.11-13.46.59:675][898]LogFileHelpers: Saving map 'RockyLevel' took 0.045
+[2023.04.11-13.46.59:682][898]LogFileHelpers: InternalPromptForCheckoutAndSave took 110 ms (total: 4.51 sec)
+[2023.04.11-13.46.59:688][898]AssetCheck: New page: Asset Save: RockyLevel
+[2023.04.11-13.46.59:688][898]LogContentValidation: Display: Validating /Script/Engine.World /Game/MyFirstRTS/Maps/RockyLevel.RockyLevel
+[2023.04.11-13.47.18:409][  9]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.04.11-13.47.18:488][  9]LogFileHelpers: No new changes to save!
+[2023.04.11-13.47.18:515][  9]LogUObjectHash: Compacting FUObjectHashTables data took   0.57ms
+[2023.04.11-13.47.18:523][  9]LogSavePackage: Moving output files for package: /Game/MyFirstRTS/Maps/RockyLevel
+[2023.04.11-13.47.18:523][  9]LogSavePackage: Moving '../../../../../../Users/lilia/OneDrive/Documents/Prog/Projet-UnrealStrat/StratGame/Saved/RockyLevelDD5FF4FE4DE43D278341EA89A77E0CE7.tmp' to '../../../../../../Users/lilia/OneDrive/Documents/Prog/Projet-UnrealStrat/StratGame/Content/MyFirstRTS/Maps/RockyLevel.umap'
+[2023.04.11-13.47.18:530][  9]LogFileHelpers: Saving map 'RockyLevel' took 0.042
+[2023.04.11-13.47.18:538][  9]LogFileHelpers: InternalPromptForCheckoutAndSave took 128 ms (total: 4.64 sec)
+[2023.04.11-13.47.18:544][  9]AssetCheck: New page: Asset Save: RockyLevel
+[2023.04.11-13.47.18:544][  9]LogContentValidation: Display: Validating /Script/Engine.World /Game/MyFirstRTS/Maps/RockyLevel.RockyLevel
+[2023.04.11-13.47.27:292][528]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.04.11-13.47.27:363][528]LogFileHelpers: No new changes to save!
+[2023.04.11-13.47.27:389][528]LogUObjectHash: Compacting FUObjectHashTables data took   0.57ms
+[2023.04.11-13.47.27:396][528]LogSavePackage: Moving output files for package: /Game/MyFirstRTS/Maps/RockyLevel
+[2023.04.11-13.47.27:397][528]LogSavePackage: Moving '../../../../../../Users/lilia/OneDrive/Documents/Prog/Projet-UnrealStrat/StratGame/Saved/RockyLevel904DFF42482EC645E9D0D49EFA9EB5B5.tmp' to '../../../../../../Users/lilia/OneDrive/Documents/Prog/Projet-UnrealStrat/StratGame/Content/MyFirstRTS/Maps/RockyLevel.umap'
+[2023.04.11-13.47.27:406][528]LogFileHelpers: Saving map 'RockyLevel' took 0.043
+[2023.04.11-13.47.27:414][528]LogFileHelpers: InternalPromptForCheckoutAndSave took 121 ms (total: 4.77 sec)
+[2023.04.11-13.47.27:420][528]AssetCheck: New page: Asset Save: RockyLevel
+[2023.04.11-13.47.27:420][528]LogContentValidation: Display: Validating /Script/Engine.World /Game/MyFirstRTS/Maps/RockyLevel.RockyLevel
+[2023.04.11-13.47.29:866][673]BlueprintLog: New page: Compile RockyLevel
+[2023.04.11-13.47.29:869][673]LogBlueprint: Error: [AssetLog] C:\Users\lilia\OneDrive\Documents\Prog\Projet-UnrealStrat\StratGame\Content\MyFirstRTS\Maps\RockyLevel.umap: [Compiler] Could not find a pin for the parameter RdmNourActu of Construction Scierie on  Construction Scierie
+[2023.04.11-13.47.29:869][673]LogBlueprint: Error: [AssetLog] C:\Users\lilia\OneDrive\Documents\Prog\Projet-UnrealStrat\StratGame\Content\MyFirstRTS\Maps\RockyLevel.umap: [Compiler] Pin  Rdm Prod Actu  named RdmProdActu doesn't match any parameters of function Construction Scierie
+[2023.04.11-13.47.29:918][673]LogUObjectHash: Compacting FUObjectHashTables data took   1.43ms
+[2023.04.11-13.48.13:912][308]BlueprintLog: New page: Compile BP_Scierie
+[2023.04.11-13.48.13:969][308]LogUObjectHash: Compacting FUObjectHashTables data took   1.39ms
+[2023.04.11-13.48.15:093][374]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.04.11-13.48.15:184][374]LogSavePackage: Moving output files for package: /Game/Blueprints/Bâtiment/BP_Scierie
+[2023.04.11-13.48.15:184][374]LogSavePackage: Moving '../../../../../../Users/lilia/OneDrive/Documents/Prog/Projet-UnrealStrat/StratGame/Saved/BP_Scierie916B42AB4458F5A419CD769775BEC77B.tmp' to '../../../../../../Users/lilia/OneDrive/Documents/Prog/Projet-UnrealStrat/StratGame/Content/Blueprints/Bâtiment/BP_Scierie.uasset'
+[2023.04.11-13.48.15:192][374]LogFileHelpers: InternalPromptForCheckoutAndSave took 98 ms (total: 4.86 sec)
+[2023.04.11-13.48.15:197][374]AssetCheck: New page: Asset Save: BP_Scierie
+[2023.04.11-13.48.15:197][374]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/Bâtiment/BP_Scierie.BP_Scierie
+[2023.04.11-13.48.17:753][528]BlueprintLog: New page: Compile RockyLevel
+[2023.04.11-13.48.17:804][528]LogUObjectHash: Compacting FUObjectHashTables data took   1.41ms
+[2023.04.11-13.48.23:382][859]LogUObjectHash: Compacting FUObjectHashTables data took   1.23ms
+[2023.04.11-13.48.23:386][859]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.04.11-13.48.23:446][859]LogFileHelpers: No new changes to save!
+[2023.04.11-13.48.23:473][859]LogUObjectHash: Compacting FUObjectHashTables data took   0.57ms
+[2023.04.11-13.48.23:481][859]LogSavePackage: Moving output files for package: /Game/MyFirstRTS/Maps/RockyLevel
+[2023.04.11-13.48.23:481][859]LogSavePackage: Moving '../../../../../../Users/lilia/OneDrive/Documents/Prog/Projet-UnrealStrat/StratGame/Saved/RockyLevelB5BCF0514F140A9123A44687E9663A73.tmp' to '../../../../../../Users/lilia/OneDrive/Documents/Prog/Projet-UnrealStrat/StratGame/Content/MyFirstRTS/Maps/RockyLevel.umap'
+[2023.04.11-13.48.23:490][859]LogFileHelpers: Saving map 'RockyLevel' took 0.043
+[2023.04.11-13.48.23:498][859]LogFileHelpers: InternalPromptForCheckoutAndSave took 111 ms (total: 4.98 sec)
+[2023.04.11-13.48.23:504][859]AssetCheck: New page: Asset Save: RockyLevel
+[2023.04.11-13.48.23:504][859]LogContentValidation: Display: Validating /Script/Engine.World /Game/MyFirstRTS/Maps/RockyLevel.RockyLevel
