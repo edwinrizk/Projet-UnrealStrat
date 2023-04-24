@@ -4564,3 +4564,4 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2023.04.24-08.38.48:871][665]AssetCheck: New page: Asset Save: multiple assets
 [2023.04.24-08.38.48:871][665]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/PC_RTS.PC_RTS
 [2023.04.24-08.38.48:871][665]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/NewBlueprint.NewBlueprint
+[2023.04.24-08.41.39:326][320]LogEditorViewport: Clicking Background
