@@ -3423,3 +3423,1144 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2023.04.24-07.27.21:882][617]LogD3D12RHI: Warning: Descriptor cache ran out of sub allocated descriptor blocks! Moving to Context local View heap strategy
 [2023.04.24-07.27.21:882][617]LogD3D12RHI: This should only happen in the Editor where it doesn't matter as much. If it happens in game you should increase the device global heap size!
 [2023.04.24-07.44.31:017][645]LogD3D12RHI: OnlineHeap RollOver Detected. Increase the heap size to prevent creation of additional heaps
+[2023.04.24-08.13.24:324][703]LogDerivedDataCache: C:/Users/edwin/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:50.193 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 25875 files in 27731 folders with total size 5437 MiB.
+[2023.04.24-08.17.41:579][ 87]LogEditorTransaction: Undo Create Pin Link
+[2023.04.24-08.17.42:189][115]LogEditorTransaction: Undo Create Pin Link
+[2023.04.24-08.17.43:276][230]LogUObjectHash: Compacting FUObjectHashTables data took   1.14ms
+[2023.04.24-08.17.43:278][230]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/MyFirstRTS/Maps/RockyLevel' took 0.027
+[2023.04.24-08.17.43:279][230]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/PC_RTS] ([2] browsable assets)...
+[2023.04.24-08.17.43:279][230]OBJ SavePackage: Finished generating thumbnails for package [/Game/PC_RTS]
+[2023.04.24-08.17.43:279][230]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/PC_RTS" FILE="D:/dossier perso/GIT/Projet-UnrealStrat/Projet-UnrealStrat/StratGame/Saved/Autosaves/Game/PC_RTS_Auto1.uasset" SILENT=false AUTOSAVING=true
+[2023.04.24-08.17.43:287][230]LogPackageLocalizationCache: Processed 46 localized package path(s) for 1 prioritized culture(s) in 0.007701 seconds
+[2023.04.24-08.17.43:294][230]LogSerialization: UsePackageTrailer: 'true'
+[2023.04.24-08.17.43:301][230]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/PC_RTS_Auto1
+[2023.04.24-08.17.43:302][230]LogSavePackage: Moving 'D:/dossier perso/GIT/Projet-UnrealStrat/Projet-UnrealStrat/StratGame/Saved/PC_RTS_Auto118A1DC574AB32521D9EE40918919563C.tmp' to 'D:/dossier perso/GIT/Projet-UnrealStrat/Projet-UnrealStrat/StratGame/Saved/Autosaves/Game/PC_RTS_Auto1.uasset'
+[2023.04.24-08.17.43:303][230]LogFileHelpers: Auto-saving content packages took 0.025
+[2023.04.24-08.18.12:949][771]LogSelectionDetails: Warning: NavigateToFunctionSource:  Unable to find source file and line number for 'UKismetMathLibrary::GetRightVector' [Élément introuvable.]
+[2023.04.24-08.27.43:749][744]LogUObjectHash: Compacting FUObjectHashTables data took   1.75ms
+[2023.04.24-08.27.43:751][744]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/MyFirstRTS/Maps/RockyLevel' took 0.030
+[2023.04.24-08.27.43:751][744]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/PC_RTS] ([2] browsable assets)...
+[2023.04.24-08.27.43:751][744]OBJ SavePackage: Finished generating thumbnails for package [/Game/PC_RTS]
+[2023.04.24-08.27.43:751][744]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/PC_RTS" FILE="D:/dossier perso/GIT/Projet-UnrealStrat/Projet-UnrealStrat/StratGame/Saved/Autosaves/Game/PC_RTS_Auto2.uasset" SILENT=false AUTOSAVING=true
+[2023.04.24-08.27.43:763][744]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/PC_RTS_Auto2
+[2023.04.24-08.27.43:763][744]LogSavePackage: Moving 'D:/dossier perso/GIT/Projet-UnrealStrat/Projet-UnrealStrat/StratGame/Saved/PC_RTS_Auto216D4F9E346DFF78399ACFFA57846D9CB.tmp' to 'D:/dossier perso/GIT/Projet-UnrealStrat/Projet-UnrealStrat/StratGame/Saved/Autosaves/Game/PC_RTS_Auto2.uasset'
+[2023.04.24-08.27.43:764][744]LogFileHelpers: Auto-saving content packages took 0.013
+[2023.04.24-08.30.14:037][195]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.04.24-08.30.16:776][499]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/BP_PlayerCamera.BP_PlayerCamera
+[2023.04.24-08.30.16:776][499]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.04.24-08.30.16:776][499]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.04.24-08.30.17:857][618]LogViewport: Scene viewport resized to 1489x685, mode Windowed.
+[2023.04.24-08.30.19:917][854]LogWorld: UWorld::CleanupWorld for World_3, bSessionEnded=true, bCleanupResources=true
+[2023.04.24-08.30.19:917][854]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.24-08.30.22:156][118]LogViewport: Scene viewport resized to 1489x685, mode Windowed.
+[2023.04.24-08.30.29:064][936]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2023.04.24-08.30.29:064][936]LogWorld: UWorld::CleanupWorld for World_2, bSessionEnded=true, bCleanupResources=true
+[2023.04.24-08.30.29:064][936]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.24-08.30.29:089][936]LogViewport: Scene viewport resized to 1526x937, mode Windowed.
+[2023.04.24-08.30.29:104][937]LogViewport: Scene viewport resized to 1526x931, mode Windowed.
+[2023.04.24-08.30.29:153][938]LogViewport: Scene viewport resized to 1526x912, mode Windowed.
+[2023.04.24-08.30.29:187][939]LogViewport: Scene viewport resized to 1526x899, mode Windowed.
+[2023.04.24-08.30.29:218][940]LogViewport: Scene viewport resized to 1526x894, mode Windowed.
+[2023.04.24-08.30.31:859][248]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.04.24-08.30.31:864][248]LogContentBundle: [RockyLevel(Standalone)] Generating Streaming for 0 Content Bundles.
+[2023.04.24-08.30.31:864][248]LogWorldPartition: Display: GenerateStreaming started...
+[2023.04.24-08.30.31:864][248]LogWorldPartition: Display: GetPartitionedActors started...
+[2023.04.24-08.30.31:864][248]LogWorldPartition: Display: GetPartitionedActors took 6 us (total: 16 us)
+[2023.04.24-08.30.31:864][248]LogWorldPartition: Display: GenerateStreaming took 121 us (total: 236 us)
+[2023.04.24-08.30.31:865][248]BlueprintLog: New page: Pre-Play auto-recompile
+[2023.04.24-08.30.31:865][248]LogPlayLevel: [PlayLevel] Compiling PC_RTS before play...
+[2023.04.24-08.30.31:894][248]LogUObjectHash: Compacting FUObjectHashTables data took   1.01ms
+[2023.04.24-08.30.31:900][248]LogPlayLevel: PlayLevel: Blueprint regeneration took 35 ms (1 blueprints)
+[2023.04.24-08.30.31:900][248]PIE: New page: PIE session: RockyLevel (24 avr. 2023 à 12:30:31)
+[2023.04.24-08.30.31:900][248]LogPlayLevel: Creating play world package: /Game/MyFirstRTS/Maps/UEDPIE_0_RockyLevel
+[2023.04.24-08.30.31:916][248]LogPlayLevel: PIE: StaticDuplicateObject took: (0.016597s)
+[2023.04.24-08.30.31:916][248]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/MyFirstRTS/Maps/RockyLevel.RockyLevel to /Game/MyFirstRTS/Maps/UEDPIE_0_RockyLevel.RockyLevel (0.016624s)
+[2023.04.24-08.30.31:916][248]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.04.24-08.30.31:916][248]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.04.24-08.30.31:917][248]LogAIModule: Creating AISystem for world RockyLevel
+[2023.04.24-08.30.31:917][248]LogWorldPartition: ULevel::OnLevelLoaded(RockyLevel)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, bIsValidLevelInstance=0, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2023.04.24-08.30.31:917][248]LogWorldPartition: Display: WorldPartition initialize started...
+[2023.04.24-08.30.31:917][248]LogWorldPartition: UWorldPartition::Initialize(Asset=RockyLevel, IsEditor=0, bPIEWorldTravel=0 IsGame=0, IsCooking=0)
+[2023.04.24-08.30.31:922][248]LogContentBundle: [RockyLevel(Standalone)] Creating new contrainer.
+[2023.04.24-08.30.31:922][248]LogWorldPartition: Display: WorldPartition initialize took 5 ms (total: 729 ms)
+[2023.04.24-08.30.31:922][248]LogPlayLevel: PIE: World Init took: (0.005879s)
+[2023.04.24-08.30.31:938][248]LogUObjectHash: Compacting FUObjectHashTables data took   1.02ms
+[2023.04.24-08.30.31:939][248]LogAudio: Display: Creating Audio Device:                 Id: 3, Scope: Unique, Realtime: True
+[2023.04.24-08.30.31:939][248]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.04.24-08.30.31:939][248]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.04.24-08.30.31:939][248]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.04.24-08.30.31:939][248]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.04.24-08.30.31:939][248]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2023.04.24-08.30.31:939][248]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.04.24-08.30.31:939][248]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2023.04.24-08.30.31:939][248]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.04.24-08.30.31:939][248]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.04.24-08.30.31:939][248]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.04.24-08.30.31:939][248]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.04.24-08.30.31:941][248]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.04.24-08.30.31:960][248]LogAudioMixer: Display: Using Audio Hardware Device Haut-parleurs (3- Logitech G733 Gaming Headset)
+[2023.04.24-08.30.31:960][248]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.04.24-08.30.31:960][248]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.04.24-08.30.31:960][248]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.04.24-08.30.31:961][248]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=3
+[2023.04.24-08.30.31:961][248]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=8, Samples=8192, InstanceID=3
+[2023.04.24-08.30.31:962][248]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=3
+[2023.04.24-08.30.31:962][248]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=3
+[2023.04.24-08.30.31:962][248]LogInit: FAudioDevice initialized with ID 3.
+[2023.04.24-08.30.31:962][248]LogAudio: Display: Audio Device (ID: 3) registered with world 'RockyLevel'.
+[2023.04.24-08.30.31:962][248]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 3
+[2023.04.24-08.30.31:964][248]LogLoad: Game class is 'GM_MyRTS_C'
+[2023.04.24-08.30.31:968][248]LogWorld: Bringing World /Game/MyFirstRTS/Maps/UEDPIE_0_RockyLevel.RockyLevel up for play (max tick rate 0) at 2023.04.24-10.30.31
+[2023.04.24-08.30.31:968][248]LogWorld: Bringing up level for play took: 0.003421
+[2023.04.24-08.30.31:969][248]LogOnline: OSS: Created online subsystem instance for: :Context_6
+[2023.04.24-08.30.31:970][248]PIE: Server logged in
+[2023.04.24-08.30.31:971][248]PIE: Play in editor total start time 0,107 seconds.
+[2023.04.24-08.30.31:972][248]LogBlueprintUserMessages: [PC_RTS_C_0] 0.00.0
+[2023.04.24-08.30.32:055][248]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.04.24-08.30.32:056][248]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.04.24-08.30.32:056][248]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.04.24-08.30.32:056][248]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.04.24-08.30.32:057][248]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.04.24-08.30.32:057][248]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.04.24-08.30.32:057][248]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.04.24-08.30.32:057][248]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.04.24-08.30.32:058][248]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.04.24-08.30.32:058][248]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.04.24-08.30.32:059][248]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.04.24-08.30.32:059][248]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.04.24-08.30.32:060][248]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.04.24-08.30.32:060][248]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.04.24-08.30.32:060][248]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.04.24-08.30.32:060][248]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.04.24-08.30.32:061][248]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.04.24-08.30.32:061][248]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.04.24-08.30.32:061][248]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.04.24-08.30.32:062][248]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.04.24-08.30.32:062][248]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.04.24-08.30.32:062][248]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.04.24-08.30.32:063][248]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.04.24-08.30.32:063][248]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.04.24-08.30.32:069][249]LogBlueprintUserMessages: [PC_RTS_C_0] 0.2837480.004474
+[2023.04.24-08.30.32:071][249]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.04.24-08.30.32:071][249]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.04.24-08.30.32:072][249]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.04.24-08.30.32:072][249]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.04.24-08.30.32:072][249]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.04.24-08.30.32:073][249]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.04.24-08.30.32:073][249]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.04.24-08.30.32:073][249]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.04.24-08.30.32:073][249]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.04.24-08.30.32:074][249]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.04.24-08.30.32:074][249]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.04.24-08.30.32:074][249]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.04.24-08.30.32:074][249]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.04.24-08.30.32:075][249]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.04.24-08.30.32:075][249]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.04.24-08.30.32:076][249]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.04.24-08.30.32:076][249]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.04.24-08.30.32:076][249]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.04.24-08.30.32:077][249]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.04.24-08.30.32:077][249]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.04.24-08.30.32:077][249]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.04.24-08.30.32:077][249]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.04.24-08.30.32:078][249]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.04.24-08.30.32:078][249]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.04.24-08.30.32:096][250]LogBlueprintUserMessages: [PC_RTS_C_0] 0.2942330.026846
+[2023.04.24-08.30.32:120][251]LogBlueprintUserMessages: [PC_RTS_C_0] 0.2942330.027964
+[2023.04.24-08.30.32:128][252]LogBlueprintUserMessages: [PC_RTS_C_0] 0.3138930.067114
+[2023.04.24-08.30.32:137][253]LogBlueprintUserMessages: [PC_RTS_C_0] 0.3165140.071588
+[2023.04.24-08.30.32:146][254]LogBlueprintUserMessages: [PC_RTS_C_0] 0.3302750.100671
+[2023.04.24-08.30.32:154][255]LogBlueprintUserMessages: [PC_RTS_C_0] 0.3387940.121924
+[2023.04.24-08.30.32:162][256]LogBlueprintUserMessages: [PC_RTS_C_0] 0.339450.124161
+[2023.04.24-08.30.32:170][257]LogBlueprintUserMessages: [PC_RTS_C_0] 0.3538660.16443
+[2023.04.24-08.30.32:178][258]LogBlueprintUserMessages: [PC_RTS_C_0] 0.3604190.183445
+[2023.04.24-08.30.32:187][259]LogBlueprintUserMessages: [PC_RTS_C_0] 0.3623850.187919
+[2023.04.24-08.30.32:195][260]LogBlueprintUserMessages: [PC_RTS_C_0] 0.3748360.220358
+[2023.04.24-08.30.32:203][261]LogBlueprintUserMessages: [PC_RTS_C_0] 0.38270.238255
+[2023.04.24-08.30.32:212][262]LogBlueprintUserMessages: [PC_RTS_C_0] 0.384010.242729
+[2023.04.24-08.30.32:220][263]LogBlueprintUserMessages: [PC_RTS_C_0] 0.3984270.280761
+[2023.04.24-08.30.32:229][264]LogBlueprintUserMessages: [PC_RTS_C_0] 0.4056360.302013
+[2023.04.24-08.30.32:237][265]LogBlueprintUserMessages: [PC_RTS_C_0] 0.4076020.307606
+[2023.04.24-08.30.32:245][266]LogBlueprintUserMessages: [PC_RTS_C_0] 0.4226740.347875
+[2023.04.24-08.30.32:254][267]LogBlueprintUserMessages: [PC_RTS_C_0] 0.4292270.365772
+[2023.04.24-08.30.32:261][268]LogBlueprintUserMessages: [PC_RTS_C_0] 0.4305370.370246
+[2023.04.24-08.30.32:270][269]LogBlueprintUserMessages: [PC_RTS_C_0] 0.4423330.400447
+[2023.04.24-08.30.32:279][270]LogBlueprintUserMessages: [PC_RTS_C_0] 0.4475750.412752
+[2023.04.24-08.30.32:287][271]LogBlueprintUserMessages: [PC_RTS_C_0] 0.4482310.412752
+[2023.04.24-08.30.32:295][272]LogBlueprintUserMessages: [PC_RTS_C_0] 0.4587160.431767
+[2023.04.24-08.30.32:304][273]LogBlueprintUserMessages: [PC_RTS_C_0] 0.4639580.438479
+[2023.04.24-08.30.32:312][274]LogBlueprintUserMessages: [PC_RTS_C_0] 0.4652690.439597
+[2023.04.24-08.30.32:320][275]LogBlueprintUserMessages: [PC_RTS_C_0] 0.4744430.451902
+[2023.04.24-08.30.32:328][276]LogBlueprintUserMessages: [PC_RTS_C_0] 0.4803410.457494
+[2023.04.24-08.30.32:337][277]LogBlueprintUserMessages: [PC_RTS_C_0] 0.4816510.458613
+[2023.04.24-08.30.32:345][278]LogBlueprintUserMessages: [PC_RTS_C_0] 0.4947580.467562
+[2023.04.24-08.30.32:353][279]LogBlueprintUserMessages: [PC_RTS_C_0] 0.5032770.472036
+[2023.04.24-08.30.32:361][280]LogBlueprintUserMessages: [PC_RTS_C_0] 0.5052420.473154
+[2023.04.24-08.30.32:370][281]LogBlueprintUserMessages: [PC_RTS_C_0] 0.520970.475391
+[2023.04.24-08.30.32:378][282]LogBlueprintUserMessages: [PC_RTS_C_0] 0.5288340.475391
+[2023.04.24-08.30.32:386][283]LogBlueprintUserMessages: [PC_RTS_C_0] 0.5307990.474273
+[2023.04.24-08.30.32:395][284]LogBlueprintUserMessages: [PC_RTS_C_0] 0.5347310.473154
+[2023.04.24-08.30.32:403][285]LogBlueprintUserMessages: [PC_RTS_C_0] 0.5347310.473154
+[2023.04.24-08.30.32:412][286]LogBlueprintUserMessages: [PC_RTS_C_0] 0.5347310.473154
+[2023.04.24-08.30.32:420][287]LogBlueprintUserMessages: [PC_RTS_C_0] 0.5347310.473154
+[2023.04.24-08.30.32:428][288]LogBlueprintUserMessages: [PC_RTS_C_0] 0.5347310.473154
+[2023.04.24-08.30.32:436][289]LogBlueprintUserMessages: [PC_RTS_C_0] 0.5347310.473154
+[2023.04.24-08.30.32:445][290]LogBlueprintUserMessages: [PC_RTS_C_0] 0.5360420.469799
+[2023.04.24-08.30.32:453][291]LogBlueprintUserMessages: [PC_RTS_C_0] 0.5360420.469799
+[2023.04.24-08.30.32:462][292]LogBlueprintUserMessages: [PC_RTS_C_0] 0.5380080.466443
+[2023.04.24-08.30.32:470][293]LogBlueprintUserMessages: [PC_RTS_C_0] 0.5380080.466443
+[2023.04.24-08.30.32:478][294]LogBlueprintUserMessages: [PC_RTS_C_0] 0.541940.464206
+[2023.04.24-08.30.32:487][295]LogBlueprintUserMessages: [PC_RTS_C_0] 0.5425950.464206
+[2023.04.24-08.30.32:496][296]LogBlueprintUserMessages: [PC_RTS_C_0] 0.5504590.46085
+[2023.04.24-08.30.32:503][297]LogBlueprintUserMessages: [PC_RTS_C_0] 0.5563560.46085
+[2023.04.24-08.30.32:512][298]LogBlueprintUserMessages: [PC_RTS_C_0] 0.5570120.459732
+[2023.04.24-08.30.32:520][299]LogBlueprintUserMessages: [PC_RTS_C_0] 0.5688070.459732
+[2023.04.24-08.30.32:528][300]LogBlueprintUserMessages: [PC_RTS_C_0] 0.575360.458613
+[2023.04.24-08.30.32:537][301]LogBlueprintUserMessages: [PC_RTS_C_0] 0.5773260.458613
+[2023.04.24-08.30.32:545][302]LogBlueprintUserMessages: [PC_RTS_C_0] 0.5891220.457494
+[2023.04.24-08.30.32:553][303]LogBlueprintUserMessages: [PC_RTS_C_0] 0.5943640.457494
+[2023.04.24-08.30.32:562][304]LogBlueprintUserMessages: [PC_RTS_C_0] 0.5956750.458613
+[2023.04.24-08.30.32:570][305]LogBlueprintUserMessages: [PC_RTS_C_0] 0.5996070.461969
+[2023.04.24-08.30.32:580][306]LogBlueprintUserMessages: [PC_RTS_C_0] 0.5996070.461969
+[2023.04.24-08.30.32:587][307]LogBlueprintUserMessages: [PC_RTS_C_0] 0.6002620.464206
+[2023.04.24-08.30.32:595][308]LogBlueprintUserMessages: [PC_RTS_C_0] 0.6002620.466443
+[2023.04.24-08.30.32:604][309]LogBlueprintUserMessages: [PC_RTS_C_0] 0.6002620.469799
+[2023.04.24-08.30.32:613][310]LogBlueprintUserMessages: [PC_RTS_C_0] 0.5989520.475391
+[2023.04.24-08.30.32:621][311]LogBlueprintUserMessages: [PC_RTS_C_0] 0.5976410.480984
+[2023.04.24-08.30.32:629][312]LogBlueprintUserMessages: [PC_RTS_C_0] 0.595020.486577
+[2023.04.24-08.30.32:637][313]LogBlueprintUserMessages: [PC_RTS_C_0] 0.5917430.494407
+[2023.04.24-08.30.32:646][314]LogBlueprintUserMessages: [PC_RTS_C_0] 0.5884670.501119
+[2023.04.24-08.30.32:654][315]LogBlueprintUserMessages: [PC_RTS_C_0] 0.5845350.508949
+[2023.04.24-08.30.32:663][316]LogBlueprintUserMessages: [PC_RTS_C_0] 0.5799480.516779
+[2023.04.24-08.30.32:671][317]LogBlueprintUserMessages: [PC_RTS_C_0] 0.5760160.522371
+[2023.04.24-08.30.32:679][318]LogBlueprintUserMessages: [PC_RTS_C_0] 0.5720840.527964
+[2023.04.24-08.30.32:687][319]LogBlueprintUserMessages: [PC_RTS_C_0] 0.5674970.533557
+[2023.04.24-08.30.32:696][320]LogBlueprintUserMessages: [PC_RTS_C_0] 0.562910.53915
+[2023.04.24-08.30.32:704][321]LogBlueprintUserMessages: [PC_RTS_C_0] 0.5583220.543624
+[2023.04.24-08.30.32:712][322]LogBlueprintUserMessages: [PC_RTS_C_0] 0.5524250.549217
+[2023.04.24-08.30.32:721][323]LogBlueprintUserMessages: [PC_RTS_C_0] 0.5452160.55481
+[2023.04.24-08.30.32:729][324]LogBlueprintUserMessages: [PC_RTS_C_0] 0.5393180.559284
+[2023.04.24-08.30.32:737][325]LogBlueprintUserMessages: [PC_RTS_C_0] 0.5327650.564877
+[2023.04.24-08.30.32:746][326]LogBlueprintUserMessages: [PC_RTS_C_0] 0.5268680.569351
+[2023.04.24-08.30.32:754][327]LogBlueprintUserMessages: [PC_RTS_C_0] 0.5216250.573826
+[2023.04.24-08.30.32:761][328]LogBlueprintUserMessages: [PC_RTS_C_0] 0.5176930.579418
+[2023.04.24-08.30.32:770][329]LogBlueprintUserMessages: [PC_RTS_C_0] 0.5137610.583893
+[2023.04.24-08.30.32:779][330]LogBlueprintUserMessages: [PC_RTS_C_0] 0.511140.587248
+[2023.04.24-08.30.32:787][331]LogBlueprintUserMessages: [PC_RTS_C_0] 0.5085190.590604
+[2023.04.24-08.30.32:795][332]LogBlueprintUserMessages: [PC_RTS_C_0] 0.5072080.592841
+[2023.04.24-08.30.32:804][333]LogBlueprintUserMessages: [PC_RTS_C_0] 0.5065530.59396
+[2023.04.24-08.30.32:812][334]LogBlueprintUserMessages: [PC_RTS_C_0] 0.5058980.59396
+[2023.04.24-08.30.32:820][335]LogBlueprintUserMessages: [PC_RTS_C_0] 0.5058980.59396
+[2023.04.24-08.30.32:828][336]LogBlueprintUserMessages: [PC_RTS_C_0] 0.5058980.59396
+[2023.04.24-08.30.32:836][337]LogBlueprintUserMessages: [PC_RTS_C_0] 0.5058980.59396
+[2023.04.24-08.30.32:845][338]LogBlueprintUserMessages: [PC_RTS_C_0] 0.5058980.59396
+[2023.04.24-08.30.32:853][339]LogBlueprintUserMessages: [PC_RTS_C_0] 0.5058980.59396
+[2023.04.24-08.30.32:861][340]LogBlueprintUserMessages: [PC_RTS_C_0] 0.5058980.59396
+[2023.04.24-08.30.32:870][341]LogBlueprintUserMessages: [PC_RTS_C_0] 0.5058980.59396
+[2023.04.24-08.30.32:878][342]LogBlueprintUserMessages: [PC_RTS_C_0] 0.5058980.59396
+[2023.04.24-08.30.32:886][343]LogBlueprintUserMessages: [PC_RTS_C_0] 0.5058980.59396
+[2023.04.24-08.30.32:895][344]LogBlueprintUserMessages: [PC_RTS_C_0] 0.5058980.59396
+[2023.04.24-08.30.32:904][345]LogBlueprintUserMessages: [PC_RTS_C_0] 0.5072080.592841
+[2023.04.24-08.30.32:912][346]LogBlueprintUserMessages: [PC_RTS_C_0] 0.5091740.589485
+[2023.04.24-08.30.32:921][347]LogBlueprintUserMessages: [PC_RTS_C_0] 0.5124510.583893
+[2023.04.24-08.30.32:929][348]LogBlueprintUserMessages: [PC_RTS_C_0] 0.5157270.576063
+[2023.04.24-08.30.32:937][349]LogBlueprintUserMessages: [PC_RTS_C_0] 0.5196590.568233
+[2023.04.24-08.30.32:946][350]LogBlueprintUserMessages: [PC_RTS_C_0] 0.5229360.560403
+[2023.04.24-08.30.32:954][351]LogBlueprintUserMessages: [PC_RTS_C_0] 0.5262120.552573
+[2023.04.24-08.30.32:961][352]LogBlueprintUserMessages: [PC_RTS_C_0] 0.5288340.545861
+[2023.04.24-08.30.32:970][353]LogBlueprintUserMessages: [PC_RTS_C_0] 0.5314550.538031
+[2023.04.24-08.30.32:979][354]LogBlueprintUserMessages: [PC_RTS_C_0] 0.5334210.534676
+[2023.04.24-08.30.32:987][355]LogBlueprintUserMessages: [PC_RTS_C_0] 0.5340760.530201
+[2023.04.24-08.30.32:995][356]LogBlueprintUserMessages: [PC_RTS_C_0] 0.5353870.526846
+[2023.04.24-08.30.33:003][357]LogBlueprintUserMessages: [PC_RTS_C_0] 0.5360420.525727
+[2023.04.24-08.30.33:011][358]LogBlueprintUserMessages: [PC_RTS_C_0] 0.5366970.524609
+[2023.04.24-08.30.33:020][359]LogBlueprintUserMessages: [PC_RTS_C_0] 0.5373530.52349
+[2023.04.24-08.30.33:029][360]LogBlueprintUserMessages: [PC_RTS_C_0] 0.5380080.522371
+[2023.04.24-08.30.33:037][361]LogBlueprintUserMessages: [PC_RTS_C_0] 0.5386630.522371
+[2023.04.24-08.30.33:045][362]LogBlueprintUserMessages: [PC_RTS_C_0] 0.5393180.521253
+[2023.04.24-08.30.33:054][363]LogBlueprintUserMessages: [PC_RTS_C_0] 0.5399740.521253
+[2023.04.24-08.30.33:062][364]LogBlueprintUserMessages: [PC_RTS_C_0] 0.5406290.520134
+[2023.04.24-08.30.33:071][365]LogBlueprintUserMessages: [PC_RTS_C_0] 0.541940.519016
+[2023.04.24-08.30.33:079][366]LogBlueprintUserMessages: [PC_RTS_C_0] 0.5425950.517897
+[2023.04.24-08.30.33:087][367]LogBlueprintUserMessages: [PC_RTS_C_0] 0.5439060.516779
+[2023.04.24-08.30.33:095][368]LogBlueprintUserMessages: [PC_RTS_C_0] 0.5452160.51566
+[2023.04.24-08.30.33:104][369]LogBlueprintUserMessages: [PC_RTS_C_0] 0.5471820.513423
+[2023.04.24-08.30.33:112][370]LogBlueprintUserMessages: [PC_RTS_C_0] 0.5484930.511186
+[2023.04.24-08.30.33:120][371]LogBlueprintUserMessages: [PC_RTS_C_0] 0.5511140.508949
+[2023.04.24-08.30.33:129][372]LogBlueprintUserMessages: [PC_RTS_C_0] 0.5524250.50783
+[2023.04.24-08.30.33:137][373]LogBlueprintUserMessages: [PC_RTS_C_0] 0.5557010.505593
+[2023.04.24-08.30.33:145][374]LogBlueprintUserMessages: [PC_RTS_C_0] 0.5583220.502237
+[2023.04.24-08.30.33:153][375]LogBlueprintUserMessages: [PC_RTS_C_0] 0.5602880.5
+[2023.04.24-08.30.33:161][376]LogBlueprintUserMessages: [PC_RTS_C_0] 0.562910.496644
+[2023.04.24-08.30.33:171][377]LogBlueprintUserMessages: [PC_RTS_C_0] 0.5655310.493289
+[2023.04.24-08.30.33:179][378]LogBlueprintUserMessages: [PC_RTS_C_0] 0.5674970.491051
+[2023.04.24-08.30.33:187][379]LogBlueprintUserMessages: [PC_RTS_C_0] 0.5688070.488814
+[2023.04.24-08.30.33:196][380]LogBlueprintUserMessages: [PC_RTS_C_0] 0.5707730.485459
+[2023.04.24-08.30.33:204][381]LogBlueprintUserMessages: [PC_RTS_C_0] 0.5727390.48434
+[2023.04.24-08.30.33:212][382]LogBlueprintUserMessages: [PC_RTS_C_0] 0.575360.480984
+[2023.04.24-08.30.33:220][383]LogBlueprintUserMessages: [PC_RTS_C_0] 0.5773260.478747
+[2023.04.24-08.30.33:229][384]LogBlueprintUserMessages: [PC_RTS_C_0] 0.5792920.47651
+[2023.04.24-08.30.33:237][385]LogBlueprintUserMessages: [PC_RTS_C_0] 0.5812580.474273
+[2023.04.24-08.30.33:245][386]LogBlueprintUserMessages: [PC_RTS_C_0] 0.5825690.472036
+[2023.04.24-08.30.33:254][387]LogBlueprintUserMessages: [PC_RTS_C_0] 0.5845350.470917
+[2023.04.24-08.30.33:262][388]LogBlueprintUserMessages: [PC_RTS_C_0] 0.585190.46868
+[2023.04.24-08.30.33:270][389]LogBlueprintUserMessages: [PC_RTS_C_0] 0.5865010.46868
+[2023.04.24-08.30.33:279][390]LogBlueprintUserMessages: [PC_RTS_C_0] 0.5871560.467562
+[2023.04.24-08.30.33:287][391]LogBlueprintUserMessages: [PC_RTS_C_0] 0.5878110.466443
+[2023.04.24-08.30.33:295][392]LogBlueprintUserMessages: [PC_RTS_C_0] 0.5884670.465324
+[2023.04.24-08.30.33:304][393]LogBlueprintUserMessages: [PC_RTS_C_0] 0.5891220.465324
+[2023.04.24-08.30.33:312][394]LogBlueprintUserMessages: [PC_RTS_C_0] 0.5904330.463087
+[2023.04.24-08.30.33:320][395]LogBlueprintUserMessages: [PC_RTS_C_0] 0.5917430.461969
+[2023.04.24-08.30.33:329][396]LogBlueprintUserMessages: [PC_RTS_C_0] 0.5930540.459732
+[2023.04.24-08.30.33:337][397]LogBlueprintUserMessages: [PC_RTS_C_0] 0.5943640.458613
+[2023.04.24-08.30.33:346][398]LogBlueprintUserMessages: [PC_RTS_C_0] 0.596330.456376
+[2023.04.24-08.30.33:354][399]LogBlueprintUserMessages: [PC_RTS_C_0] 0.5969860.455257
+[2023.04.24-08.30.33:362][400]LogBlueprintUserMessages: [PC_RTS_C_0] 0.5982960.45302
+[2023.04.24-08.30.33:370][401]LogBlueprintUserMessages: [PC_RTS_C_0] 0.5996070.451902
+[2023.04.24-08.30.33:379][402]LogBlueprintUserMessages: [PC_RTS_C_0] 0.6002620.450783
+[2023.04.24-08.30.33:387][403]LogBlueprintUserMessages: [PC_RTS_C_0] 0.6009170.448546
+[2023.04.24-08.30.33:395][404]LogBlueprintUserMessages: [PC_RTS_C_0] 0.6015730.448546
+[2023.04.24-08.30.33:403][405]LogBlueprintUserMessages: [PC_RTS_C_0] 0.6022280.447427
+[2023.04.24-08.30.33:411][406]LogBlueprintUserMessages: [PC_RTS_C_0] 0.6028830.446309
+[2023.04.24-08.30.33:420][407]LogBlueprintUserMessages: [PC_RTS_C_0] 0.6028830.446309
+[2023.04.24-08.30.33:429][408]LogBlueprintUserMessages: [PC_RTS_C_0] 0.6028830.446309
+[2023.04.24-08.30.33:437][409]LogBlueprintUserMessages: [PC_RTS_C_0] 0.6028830.446309
+[2023.04.24-08.30.33:445][410]LogBlueprintUserMessages: [PC_RTS_C_0] 0.6028830.446309
+[2023.04.24-08.30.33:453][411]LogBlueprintUserMessages: [PC_RTS_C_0] 0.6028830.446309
+[2023.04.24-08.30.33:461][412]LogBlueprintUserMessages: [PC_RTS_C_0] 0.6028830.44519
+[2023.04.24-08.30.33:470][413]LogBlueprintUserMessages: [PC_RTS_C_0] 0.6028830.44519
+[2023.04.24-08.30.33:478][414]LogBlueprintUserMessages: [PC_RTS_C_0] 0.6028830.44519
+[2023.04.24-08.30.33:487][415]LogBlueprintUserMessages: [PC_RTS_C_0] 0.6035390.44519
+[2023.04.24-08.30.33:495][416]LogBlueprintUserMessages: [PC_RTS_C_0] 0.6035390.44519
+[2023.04.24-08.30.33:503][417]LogBlueprintUserMessages: [PC_RTS_C_0] 0.6035390.44519
+[2023.04.24-08.30.33:512][418]LogBlueprintUserMessages: [PC_RTS_C_0] 0.6035390.444072
+[2023.04.24-08.30.33:520][419]LogBlueprintUserMessages: [PC_RTS_C_0] 0.6035390.444072
+[2023.04.24-08.30.33:529][420]LogBlueprintUserMessages: [PC_RTS_C_0] 0.6035390.444072
+[2023.04.24-08.30.33:537][421]LogBlueprintUserMessages: [PC_RTS_C_0] 0.6035390.444072
+[2023.04.24-08.30.33:545][422]LogBlueprintUserMessages: [PC_RTS_C_0] 0.6035390.444072
+[2023.04.24-08.30.33:553][423]LogBlueprintUserMessages: [PC_RTS_C_0] 0.6035390.444072
+[2023.04.24-08.30.33:561][424]LogBlueprintUserMessages: [PC_RTS_C_0] 0.6035390.444072
+[2023.04.24-08.30.33:570][425]LogBlueprintUserMessages: [PC_RTS_C_0] 0.6035390.444072
+[2023.04.24-08.30.33:578][426]LogBlueprintUserMessages: [PC_RTS_C_0] 0.6035390.444072
+[2023.04.24-08.30.33:587][427]LogBlueprintUserMessages: [PC_RTS_C_0] 0.6035390.444072
+[2023.04.24-08.30.33:595][428]LogBlueprintUserMessages: [PC_RTS_C_0] 0.6035390.444072
+[2023.04.24-08.30.33:603][429]LogBlueprintUserMessages: [PC_RTS_C_0] 0.6035390.444072
+[2023.04.24-08.30.33:611][430]LogBlueprintUserMessages: [PC_RTS_C_0] 0.6035390.444072
+[2023.04.24-08.30.33:620][431]LogBlueprintUserMessages: [PC_RTS_C_0] 0.6035390.444072
+[2023.04.24-08.30.33:628][432]LogBlueprintUserMessages: [PC_RTS_C_0] 0.6035390.444072
+[2023.04.24-08.30.33:637][433]LogBlueprintUserMessages: [PC_RTS_C_0] 0.6035390.444072
+[2023.04.24-08.30.33:645][434]LogBlueprintUserMessages: [PC_RTS_C_0] 0.6035390.444072
+[2023.04.24-08.30.33:653][435]LogBlueprintUserMessages: [PC_RTS_C_0] 0.6035390.444072
+[2023.04.24-08.30.33:662][436]LogBlueprintUserMessages: [PC_RTS_C_0] 0.6035390.444072
+[2023.04.24-08.30.33:670][437]LogBlueprintUserMessages: [PC_RTS_C_0] 0.6035390.444072
+[2023.04.24-08.30.33:678][438]LogBlueprintUserMessages: [PC_RTS_C_0] 0.6035390.444072
+[2023.04.24-08.30.33:687][439]LogBlueprintUserMessages: [PC_RTS_C_0] 0.6035390.444072
+[2023.04.24-08.30.33:695][440]LogBlueprintUserMessages: [PC_RTS_C_0] 0.6035390.444072
+[2023.04.24-08.30.33:703][441]LogBlueprintUserMessages: [PC_RTS_C_0] 0.6035390.444072
+[2023.04.24-08.30.33:712][442]LogBlueprintUserMessages: [PC_RTS_C_0] 0.6035390.444072
+[2023.04.24-08.30.33:720][443]LogBlueprintUserMessages: [PC_RTS_C_0] 0.6035390.444072
+[2023.04.24-08.30.33:729][444]LogBlueprintUserMessages: [PC_RTS_C_0] 0.6035390.444072
+[2023.04.24-08.30.33:737][445]LogBlueprintUserMessages: [PC_RTS_C_0] 0.6035390.444072
+[2023.04.24-08.30.33:745][446]LogBlueprintUserMessages: [PC_RTS_C_0] 0.6035390.444072
+[2023.04.24-08.30.33:753][447]LogBlueprintUserMessages: [PC_RTS_C_0] 0.6035390.444072
+[2023.04.24-08.30.33:762][448]LogBlueprintUserMessages: [PC_RTS_C_0] 0.6035390.444072
+[2023.04.24-08.30.33:770][449]LogBlueprintUserMessages: [PC_RTS_C_0] 0.6035390.444072
+[2023.04.24-08.30.33:778][450]LogBlueprintUserMessages: [PC_RTS_C_0] 0.6035390.444072
+[2023.04.24-08.30.33:786][451]LogBlueprintUserMessages: [PC_RTS_C_0] 0.6035390.444072
+[2023.04.24-08.30.33:795][452]LogBlueprintUserMessages: [PC_RTS_C_0] 0.6035390.444072
+[2023.04.24-08.30.33:803][453]LogBlueprintUserMessages: [PC_RTS_C_0] 0.6035390.444072
+[2023.04.24-08.30.33:812][454]LogBlueprintUserMessages: [PC_RTS_C_0] 0.6035390.444072
+[2023.04.24-08.30.33:820][455]LogBlueprintUserMessages: [PC_RTS_C_0] 0.6035390.444072
+[2023.04.24-08.30.33:828][456]LogBlueprintUserMessages: [PC_RTS_C_0] 0.6035390.444072
+[2023.04.24-08.30.33:837][457]LogBlueprintUserMessages: [PC_RTS_C_0] 0.6035390.444072
+[2023.04.24-08.30.33:845][458]LogBlueprintUserMessages: [PC_RTS_C_0] 0.6035390.444072
+[2023.04.24-08.30.33:853][459]LogBlueprintUserMessages: [PC_RTS_C_0] 0.6035390.444072
+[2023.04.24-08.30.33:862][460]LogBlueprintUserMessages: [PC_RTS_C_0] 0.6035390.444072
+[2023.04.24-08.30.33:870][461]LogBlueprintUserMessages: [PC_RTS_C_0] 0.6035390.444072
+[2023.04.24-08.30.33:879][462]LogBlueprintUserMessages: [PC_RTS_C_0] 0.6035390.444072
+[2023.04.24-08.30.33:887][463]LogBlueprintUserMessages: [PC_RTS_C_0] 0.6035390.444072
+[2023.04.24-08.30.33:895][464]LogBlueprintUserMessages: [PC_RTS_C_0] 0.6035390.444072
+[2023.04.24-08.30.33:903][465]LogBlueprintUserMessages: [PC_RTS_C_0] 0.6035390.444072
+[2023.04.24-08.30.33:912][466]LogBlueprintUserMessages: [PC_RTS_C_0] 0.6035390.444072
+[2023.04.24-08.30.33:920][467]LogBlueprintUserMessages: [PC_RTS_C_0] 0.6035390.444072
+[2023.04.24-08.30.33:928][468]LogBlueprintUserMessages: [PC_RTS_C_0] 0.6035390.444072
+[2023.04.24-08.30.33:937][469]LogBlueprintUserMessages: [PC_RTS_C_0] 0.6035390.444072
+[2023.04.24-08.30.33:945][470]LogBlueprintUserMessages: [PC_RTS_C_0] 0.6035390.444072
+[2023.04.24-08.30.33:953][471]LogBlueprintUserMessages: [PC_RTS_C_0] 0.6035390.444072
+[2023.04.24-08.30.33:962][472]LogBlueprintUserMessages: [PC_RTS_C_0] 0.6035390.444072
+[2023.04.24-08.30.33:970][473]LogBlueprintUserMessages: [PC_RTS_C_0] 0.6035390.444072
+[2023.04.24-08.30.33:978][474]LogBlueprintUserMessages: [PC_RTS_C_0] 0.6035390.444072
+[2023.04.24-08.30.33:987][475]LogBlueprintUserMessages: [PC_RTS_C_0] 0.6035390.444072
+[2023.04.24-08.30.33:995][476]LogBlueprintUserMessages: [PC_RTS_C_0] 0.6035390.444072
+[2023.04.24-08.30.34:003][477]LogBlueprintUserMessages: [PC_RTS_C_0] 0.6035390.444072
+[2023.04.24-08.30.34:012][478]LogBlueprintUserMessages: [PC_RTS_C_0] 0.6035390.444072
+[2023.04.24-08.30.34:020][479]LogBlueprintUserMessages: [PC_RTS_C_0] 0.6035390.444072
+[2023.04.24-08.30.34:028][480]LogBlueprintUserMessages: [PC_RTS_C_0] 0.6035390.444072
+[2023.04.24-08.30.34:036][481]LogBlueprintUserMessages: [PC_RTS_C_0] 0.6035390.444072
+[2023.04.24-08.30.34:045][482]LogBlueprintUserMessages: [PC_RTS_C_0] 0.6035390.444072
+[2023.04.24-08.30.34:054][483]LogBlueprintUserMessages: [PC_RTS_C_0] 0.6035390.444072
+[2023.04.24-08.30.34:062][484]LogBlueprintUserMessages: [PC_RTS_C_0] 0.6035390.444072
+[2023.04.24-08.30.34:070][485]LogBlueprintUserMessages: [PC_RTS_C_0] 0.6035390.444072
+[2023.04.24-08.30.34:078][486]LogBlueprintUserMessages: [PC_RTS_C_0] 0.6035390.444072
+[2023.04.24-08.30.34:086][487]LogBlueprintUserMessages: [PC_RTS_C_0] 0.6035390.444072
+[2023.04.24-08.30.34:095][488]LogBlueprintUserMessages: [PC_RTS_C_0] 0.6035390.444072
+[2023.04.24-08.30.34:103][489]LogBlueprintUserMessages: [PC_RTS_C_0] 0.6035390.444072
+[2023.04.24-08.30.34:134][489]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.04.24-08.30.34:134][489]LogWorld: BeginTearingDown for /Game/MyFirstRTS/Maps/UEDPIE_0_RockyLevel
+[2023.04.24-08.30.34:135][489]LogWorld: UWorld::CleanupWorld for RockyLevel, bSessionEnded=true, bCleanupResources=true
+[2023.04.24-08.30.34:136][489]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.24-08.30.34:136][489]LogContentBundle: [RockyLevel(Standalone)] Deleting container.
+[2023.04.24-08.30.34:139][489]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.04.24-08.30.34:142][489]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.24-08.30.34:161][489]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.04.24-08.30.34:161][489]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 3
+[2023.04.24-08.30.34:161][489]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=3
+[2023.04.24-08.30.34:163][489]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=3
+[2023.04.24-08.30.34:169][489]LogUObjectHash: Compacting FUObjectHashTables data took   1.27ms
+[2023.04.24-08.30.34:193][489]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.04.24-08.30.34:224][490]LogPlayLevel: Display: Destroying online subsystem :Context_6
+[2023.04.24-08.30.34:227][490]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.04.24-08.30.37:117][832]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/GM_MyRTS.GM_MyRTS
+[2023.04.24-08.30.37:117][832]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.04.24-08.30.37:117][832]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.04.24-08.30.40:699][247]LogWorld: UWorld::CleanupWorld for World_4, bSessionEnded=true, bCleanupResources=true
+[2023.04.24-08.30.40:699][247]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.24-08.30.40:719][247]LogViewport: Scene viewport resized to 1526x941, mode Windowed.
+[2023.04.24-08.30.40:740][248]LogViewport: Scene viewport resized to 1526x933, mode Windowed.
+[2023.04.24-08.30.40:783][249]LogViewport: Scene viewport resized to 1526x914, mode Windowed.
+[2023.04.24-08.30.40:829][250]LogViewport: Scene viewport resized to 1526x896, mode Windowed.
+[2023.04.24-08.30.40:876][251]LogViewport: Scene viewport resized to 1526x894, mode Windowed.
+[2023.04.24-08.30.55:945][ 43]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/PC_RTS.PC_RTS
+[2023.04.24-08.30.55:945][ 43]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.04.24-08.30.55:946][ 43]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.04.24-08.30.58:603][341]LogViewport: Scene viewport resized to 1489x685, mode Windowed.
+[2023.04.24-08.31.02:741][828]LogWorld: UWorld::CleanupWorld for World_5, bSessionEnded=true, bCleanupResources=true
+[2023.04.24-08.31.02:741][828]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.24-08.31.02:769][828]LogViewport: Scene viewport resized to 1526x937, mode Windowed.
+[2023.04.24-08.31.02:789][829]LogViewport: Scene viewport resized to 1526x930, mode Windowed.
+[2023.04.24-08.31.02:827][830]LogViewport: Scene viewport resized to 1526x913, mode Windowed.
+[2023.04.24-08.31.02:861][831]LogViewport: Scene viewport resized to 1526x899, mode Windowed.
+[2023.04.24-08.31.02:894][832]LogViewport: Scene viewport resized to 1526x894, mode Windowed.
+[2023.04.24-08.31.06:905][306]LogViewport: Scene viewport resized to 482x282, mode Windowed.
+[2023.04.24-08.31.16:056][ 86]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/BP_PlayerCamera.BP_PlayerCamera
+[2023.04.24-08.31.16:056][ 86]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.04.24-08.31.16:056][ 86]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.04.24-08.31.17:674][265]LogViewport: Scene viewport resized to 1489x685, mode Windowed.
+[2023.04.24-08.31.20:080][539]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.04.24-08.31.43:663][350]LogViewport: Scene viewport resized to 1485x685, mode Windowed.
+[2023.04.24-08.31.43:685][352]LogViewport: Scene viewport resized to 1459x685, mode Windowed.
+[2023.04.24-08.31.43:707][354]LogViewport: Scene viewport resized to 1416x685, mode Windowed.
+[2023.04.24-08.31.43:729][356]LogViewport: Scene viewport resized to 1364x685, mode Windowed.
+[2023.04.24-08.31.43:762][358]LogViewport: Scene viewport resized to 1269x685, mode Windowed.
+[2023.04.24-08.31.43:799][360]LogViewport: Scene viewport resized to 1179x685, mode Windowed.
+[2023.04.24-08.31.43:835][362]LogViewport: Scene viewport resized to 1128x685, mode Windowed.
+[2023.04.24-08.31.43:877][364]LogViewport: Scene viewport resized to 1122x685, mode Windowed.
+[2023.04.24-08.31.43:981][375]LogViewport: Scene viewport resized to 1118x685, mode Windowed.
+[2023.04.24-08.31.44:002][377]LogViewport: Scene viewport resized to 1103x685, mode Windowed.
+[2023.04.24-08.31.44:035][379]LogViewport: Scene viewport resized to 1076x685, mode Windowed.
+[2023.04.24-08.31.44:057][381]LogViewport: Scene viewport resized to 1049x685, mode Windowed.
+[2023.04.24-08.31.44:079][383]LogViewport: Scene viewport resized to 1016x685, mode Windowed.
+[2023.04.24-08.31.44:108][385]LogViewport: Scene viewport resized to 972x685, mode Windowed.
+[2023.04.24-08.31.44:136][387]LogViewport: Scene viewport resized to 948x685, mode Windowed.
+[2023.04.24-08.31.44:165][389]LogViewport: Scene viewport resized to 936x685, mode Windowed.
+[2023.04.24-08.36.05:909][647]LogViewport: Scene viewport resized to 936x717, mode Windowed.
+[2023.04.24-08.36.05:931][648]LogViewport: Scene viewport resized to 936x711, mode Windowed.
+[2023.04.24-08.36.05:945][649]LogViewport: Scene viewport resized to 936x705, mode Windowed.
+[2023.04.24-08.36.05:957][650]LogViewport: Scene viewport resized to 936x701, mode Windowed.
+[2023.04.24-08.36.05:970][651]LogViewport: Scene viewport resized to 936x697, mode Windowed.
+[2023.04.24-08.36.05:982][652]LogViewport: Scene viewport resized to 936x693, mode Windowed.
+[2023.04.24-08.36.05:994][653]LogViewport: Scene viewport resized to 936x690, mode Windowed.
+[2023.04.24-08.36.06:005][654]LogViewport: Scene viewport resized to 936x686, mode Windowed.
+[2023.04.24-08.36.06:016][655]LogViewport: Scene viewport resized to 936x685, mode Windowed.
+[2023.04.24-08.36.13:233][518]LogWorld: UWorld::CleanupWorld for World_6, bSessionEnded=true, bCleanupResources=true
+[2023.04.24-08.36.13:233][518]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.24-08.36.13:256][518]LogViewport: Scene viewport resized to 1526x939, mode Windowed.
+[2023.04.24-08.36.13:277][519]LogViewport: Scene viewport resized to 1526x931, mode Windowed.
+[2023.04.24-08.36.13:318][519]LogViewport: Scene viewport resized to 482x296, mode Windowed.
+[2023.04.24-08.36.13:343][520]LogViewport: Scene viewport resized to 1526x903, mode Windowed.
+[2023.04.24-08.36.13:388][520]LogViewport: Scene viewport resized to 482x294, mode Windowed.
+[2023.04.24-08.36.13:413][521]LogViewport: Scene viewport resized to 1526x894, mode Windowed.
+[2023.04.24-08.36.13:457][521]LogViewport: Scene viewport resized to 482x285, mode Windowed.
+[2023.04.24-08.36.13:482][522]LogViewport: Scene viewport resized to 482x282, mode Windowed.
+[2023.04.24-08.36.17:781][904]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/PC_RTS.PC_RTS
+[2023.04.24-08.36.17:781][904]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.04.24-08.36.17:781][904]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.04.24-08.36.30:526][413]BlueprintLog: New page: Compile PC_RTS
+[2023.04.24-08.36.30:572][413]LogUObjectHash: Compacting FUObjectHashTables data took   1.37ms
+[2023.04.24-08.36.31:743][543]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.04.24-08.36.31:748][543]LogContentBundle: [RockyLevel(Standalone)] Generating Streaming for 0 Content Bundles.
+[2023.04.24-08.36.31:749][543]LogWorldPartition: Display: GenerateStreaming started...
+[2023.04.24-08.36.31:749][543]LogWorldPartition: Display: GetPartitionedActors started...
+[2023.04.24-08.36.31:749][543]LogWorldPartition: Display: GetPartitionedActors took 5 us (total: 22 us)
+[2023.04.24-08.36.31:749][543]LogWorldPartition: Display: GenerateStreaming took 114 us (total: 350 us)
+[2023.04.24-08.36.31:749][543]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.04.24-08.36.31:749][543]PIE: New page: PIE session: RockyLevel (24 avr. 2023 à 12:36:31)
+[2023.04.24-08.36.31:749][543]LogPlayLevel: Creating play world package: /Game/MyFirstRTS/Maps/UEDPIE_0_RockyLevel
+[2023.04.24-08.36.31:767][543]LogPlayLevel: PIE: StaticDuplicateObject took: (0.017471s)
+[2023.04.24-08.36.31:767][543]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/MyFirstRTS/Maps/RockyLevel.RockyLevel to /Game/MyFirstRTS/Maps/UEDPIE_0_RockyLevel.RockyLevel (0.017497s)
+[2023.04.24-08.36.31:767][543]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.04.24-08.36.31:767][543]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.04.24-08.36.31:767][543]LogAIModule: Creating AISystem for world RockyLevel
+[2023.04.24-08.36.31:768][543]LogWorldPartition: ULevel::OnLevelLoaded(RockyLevel)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, bIsValidLevelInstance=0, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2023.04.24-08.36.31:768][543]LogWorldPartition: Display: WorldPartition initialize started...
+[2023.04.24-08.36.31:768][543]LogWorldPartition: UWorldPartition::Initialize(Asset=RockyLevel, IsEditor=0, bPIEWorldTravel=0 IsGame=0, IsCooking=0)
+[2023.04.24-08.36.31:773][543]LogContentBundle: [RockyLevel(Standalone)] Creating new contrainer.
+[2023.04.24-08.36.31:773][543]LogWorldPartition: Display: WorldPartition initialize took 4 ms (total: 734 ms)
+[2023.04.24-08.36.31:773][543]LogPlayLevel: PIE: World Init took: (0.005754s)
+[2023.04.24-08.36.31:791][543]LogUObjectHash: Compacting FUObjectHashTables data took   1.06ms
+[2023.04.24-08.36.31:793][543]LogAudio: Display: Creating Audio Device:                 Id: 4, Scope: Unique, Realtime: True
+[2023.04.24-08.36.31:793][543]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.04.24-08.36.31:793][543]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.04.24-08.36.31:793][543]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.04.24-08.36.31:793][543]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.04.24-08.36.31:793][543]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2023.04.24-08.36.31:793][543]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.04.24-08.36.31:793][543]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2023.04.24-08.36.31:793][543]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.04.24-08.36.31:793][543]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.04.24-08.36.31:793][543]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.04.24-08.36.31:793][543]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.04.24-08.36.31:795][543]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.04.24-08.36.31:813][543]LogAudioMixer: Display: Using Audio Hardware Device Haut-parleurs (3- Logitech G733 Gaming Headset)
+[2023.04.24-08.36.31:814][543]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.04.24-08.36.31:814][543]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.04.24-08.36.31:814][543]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.04.24-08.36.31:814][543]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=4
+[2023.04.24-08.36.31:814][543]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=8, Samples=8192, InstanceID=4
+[2023.04.24-08.36.31:815][543]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=4
+[2023.04.24-08.36.31:815][543]LogInit: FAudioDevice initialized with ID 4.
+[2023.04.24-08.36.31:815][543]LogAudio: Display: Audio Device (ID: 4) registered with world 'RockyLevel'.
+[2023.04.24-08.36.31:815][543]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=4
+[2023.04.24-08.36.31:815][543]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 4
+[2023.04.24-08.36.31:847][543]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.04.24-08.36.31:847][543]LogLoad: Game class is 'GM_MyRTS_C'
+[2023.04.24-08.36.31:851][543]LogWorld: Bringing World /Game/MyFirstRTS/Maps/UEDPIE_0_RockyLevel.RockyLevel up for play (max tick rate 0) at 2023.04.24-10.36.31
+[2023.04.24-08.36.31:851][543]LogWorld: Bringing up level for play took: 0.003598
+[2023.04.24-08.36.31:853][543]LogOnline: OSS: Created online subsystem instance for: :Context_12
+[2023.04.24-08.36.31:856][543]PIE: Server logged in
+[2023.04.24-08.36.31:858][543]PIE: Play in editor total start time 0,109 seconds.
+[2023.04.24-08.36.31:859][543]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2023.04.24-08.36.31:859][543]LogScript: Warning: Script Msg called by: PC_RTS_C /Game/MyFirstRTS/Maps/UEDPIE_0_RockyLevel.RockyLevel:PersistentLevel.PC_RTS_C_0
+[2023.04.24-08.36.31:859][543]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2023.04.24-08.36.31:859][543]LogScript: Warning: Script Msg called by: PC_RTS_C /Game/MyFirstRTS/Maps/UEDPIE_0_RockyLevel.RockyLevel:PersistentLevel.PC_RTS_C_0
+[2023.04.24-08.36.31:859][543]LogBlueprintUserMessages: [PC_RTS_C_0] 0.00.0
+[2023.04.24-08.36.31:859][543]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2023.04.24-08.36.31:859][543]LogScript: Warning: Script Msg called by: PC_RTS_C /Game/MyFirstRTS/Maps/UEDPIE_0_RockyLevel.RockyLevel:PersistentLevel.PC_RTS_C_0
+[2023.04.24-08.36.31:859][543]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2023.04.24-08.36.31:859][543]LogScript: Warning: Script Msg called by: PC_RTS_C /Game/MyFirstRTS/Maps/UEDPIE_0_RockyLevel.RockyLevel:PersistentLevel.PC_RTS_C_0
+[2023.04.24-08.36.31:875][543]LogViewport: Scene viewport resized to 1280x720, mode Windowed.
+[2023.04.24-08.36.32:061][544]LogBlueprintUserMessages: [PC_RTS_C_0] 0.4992190.369444
+[2023.04.24-08.36.32:114][545]LogBlueprintUserMessages: [PC_RTS_C_0] 0.4992190.411111
+[2023.04.24-08.36.32:144][546]LogBlueprintUserMessages: [PC_RTS_C_0] 0.5109380.548611
+[2023.04.24-08.36.32:158][547]LogBlueprintUserMessages: [PC_RTS_C_0] 0.5109380.548611
+[2023.04.24-08.36.32:169][548]LogBlueprintUserMessages: [PC_RTS_C_0] 0.5109380.548611
+[2023.04.24-08.36.32:178][549]LogBlueprintUserMessages: [PC_RTS_C_0] 0.5109380.548611
+[2023.04.24-08.36.32:187][550]LogBlueprintUserMessages: [PC_RTS_C_0] 0.5109380.548611
+[2023.04.24-08.36.32:196][551]LogBlueprintUserMessages: [PC_RTS_C_0] 0.51250.545833
+[2023.04.24-08.36.32:206][552]LogBlueprintUserMessages: [PC_RTS_C_0] 0.51250.544444
+[2023.04.24-08.36.32:215][553]LogBlueprintUserMessages: [PC_RTS_C_0] 0.5140620.534722
+[2023.04.24-08.36.32:224][554]LogBlueprintUserMessages: [PC_RTS_C_0] 0.5140620.531944
+[2023.04.24-08.36.32:233][555]LogBlueprintUserMessages: [PC_RTS_C_0] 0.5148440.519444
+[2023.04.24-08.36.32:243][556]LogBlueprintUserMessages: [PC_RTS_C_0] 0.5148440.519444
+[2023.04.24-08.36.32:253][557]LogBlueprintUserMessages: [PC_RTS_C_0] 0.5156250.506944
+[2023.04.24-08.36.32:262][558]LogBlueprintUserMessages: [PC_RTS_C_0] 0.5156250.504167
+[2023.04.24-08.36.32:271][559]LogBlueprintUserMessages: [PC_RTS_C_0] 0.5156250.5
+[2023.04.24-08.36.32:280][560]LogBlueprintUserMessages: [PC_RTS_C_0] 0.5156250.5
+[2023.04.24-08.36.32:288][561]LogBlueprintUserMessages: [PC_RTS_C_0] 0.5156250.5
+[2023.04.24-08.36.32:297][562]LogBlueprintUserMessages: [PC_RTS_C_0] 0.5156250.5
+[2023.04.24-08.36.32:306][563]LogBlueprintUserMessages: [PC_RTS_C_0] 0.5156250.5
+[2023.04.24-08.36.32:315][564]LogBlueprintUserMessages: [PC_RTS_C_0] 0.5156250.5
+[2023.04.24-08.36.32:324][565]LogBlueprintUserMessages: [PC_RTS_C_0] 0.5156250.5
+[2023.04.24-08.36.32:332][566]LogBlueprintUserMessages: [PC_RTS_C_0] 0.5156250.5
+[2023.04.24-08.36.32:341][567]LogBlueprintUserMessages: [PC_RTS_C_0] 0.5156250.5
+[2023.04.24-08.36.32:350][568]LogBlueprintUserMessages: [PC_RTS_C_0] 0.5156250.5
+[2023.04.24-08.36.32:359][569]LogBlueprintUserMessages: [PC_RTS_C_0] 0.5156250.5
+[2023.04.24-08.36.32:368][570]LogBlueprintUserMessages: [PC_RTS_C_0] 0.5156250.5
+[2023.04.24-08.36.32:376][571]LogBlueprintUserMessages: [PC_RTS_C_0] 0.5156250.5
+[2023.04.24-08.36.32:385][572]LogBlueprintUserMessages: [PC_RTS_C_0] 0.5156250.5
+[2023.04.24-08.36.32:395][573]LogBlueprintUserMessages: [PC_RTS_C_0] 0.5156250.5
+[2023.04.24-08.36.32:405][574]LogBlueprintUserMessages: [PC_RTS_C_0] 0.5156250.5
+[2023.04.24-08.36.32:414][575]LogBlueprintUserMessages: [PC_RTS_C_0] 0.5132810.5
+[2023.04.24-08.36.32:423][576]LogBlueprintUserMessages: [PC_RTS_C_0] 0.51250.5
+[2023.04.24-08.36.32:433][577]LogBlueprintUserMessages: [PC_RTS_C_0] 0.506250.497222
+[2023.04.24-08.36.32:443][578]LogBlueprintUserMessages: [PC_RTS_C_0] 0.5046870.495833
+[2023.04.24-08.36.32:454][579]LogBlueprintUserMessages: [PC_RTS_C_0] 0.4906250.491667
+[2023.04.24-08.36.32:464][580]LogBlueprintUserMessages: [PC_RTS_C_0] 0.4804690.488889
+[2023.04.24-08.36.32:473][581]LogBlueprintUserMessages: [PC_RTS_C_0] 0.4750.4875
+[2023.04.24-08.36.32:484][582]LogBlueprintUserMessages: [PC_RTS_C_0] 0.4531250.486111
+[2023.04.24-08.36.32:493][583]LogBlueprintUserMessages: [PC_RTS_C_0] 0.4531250.486111
+[2023.04.24-08.36.32:503][584]LogBlueprintUserMessages: [PC_RTS_C_0] 0.4085940.486111
+[2023.04.24-08.36.32:512][585]LogBlueprintUserMessages: [PC_RTS_C_0] 0.40.4875
+[2023.04.24-08.36.32:521][586]LogBlueprintUserMessages: [PC_RTS_C_0] 0.356250.5
+[2023.04.24-08.36.32:531][587]LogBlueprintUserMessages: [PC_RTS_C_0] 0.350.502778
+[2023.04.24-08.36.32:541][588]LogBlueprintUserMessages: [PC_RTS_C_0] 0.3164060.530556
+[2023.04.24-08.36.32:551][589]LogBlueprintUserMessages: [PC_RTS_C_0] 0.3164060.530556
+[2023.04.24-08.36.32:561][590]LogBlueprintUserMessages: [PC_RTS_C_0] 0.2929690.572222
+[2023.04.24-08.36.32:571][591]LogBlueprintUserMessages: [PC_RTS_C_0] 0.2906250.577778
+[2023.04.24-08.36.32:581][592]LogBlueprintUserMessages: [PC_RTS_C_0] 0.2859380.606944
+[2023.04.24-08.36.32:591][593]LogBlueprintUserMessages: [PC_RTS_C_0] 0.2859380.611111
+[2023.04.24-08.36.32:601][594]LogBlueprintUserMessages: [PC_RTS_C_0] 0.293750.626389
+[2023.04.24-08.36.32:611][595]LogBlueprintUserMessages: [PC_RTS_C_0] 0.293750.626389
+[2023.04.24-08.36.32:620][596]LogBlueprintUserMessages: [PC_RTS_C_0] 0.31250.630556
+[2023.04.24-08.36.32:629][597]LogBlueprintUserMessages: [PC_RTS_C_0] 0.3156250.630556
+[2023.04.24-08.36.32:639][598]LogBlueprintUserMessages: [PC_RTS_C_0] 0.3398440.626389
+[2023.04.24-08.36.32:648][599]LogBlueprintUserMessages: [PC_RTS_C_0] 0.3578120.619444
+[2023.04.24-08.36.32:658][600]LogBlueprintUserMessages: [PC_RTS_C_0] 0.36250.616667
+[2023.04.24-08.36.32:668][601]LogBlueprintUserMessages: [PC_RTS_C_0] 0.3914060.602778
+[2023.04.24-08.36.32:677][602]LogBlueprintUserMessages: [PC_RTS_C_0] 0.3968750.6
+[2023.04.24-08.36.32:686][603]LogBlueprintUserMessages: [PC_RTS_C_0] 0.4140620.5875
+[2023.04.24-08.36.32:696][604]LogBlueprintUserMessages: [PC_RTS_C_0] 0.4140620.5875
+[2023.04.24-08.36.32:711][605]LogBlueprintUserMessages: [PC_RTS_C_0] 0.4242190.576389
+[2023.04.24-08.36.32:718][606]LogBlueprintUserMessages: [PC_RTS_C_0] 0.4242190.576389
+[2023.04.24-08.36.32:727][607]LogBlueprintUserMessages: [PC_RTS_C_0] 0.4242190.575
+[2023.04.24-08.36.32:736][608]LogBlueprintUserMessages: [PC_RTS_C_0] 0.4242190.575
+[2023.04.24-08.36.32:745][609]LogBlueprintUserMessages: [PC_RTS_C_0] 0.4242190.575
+[2023.04.24-08.36.32:755][610]LogBlueprintUserMessages: [PC_RTS_C_0] 0.4234380.573611
+[2023.04.24-08.36.32:764][611]LogBlueprintUserMessages: [PC_RTS_C_0] 0.4218750.570833
+[2023.04.24-08.36.32:773][612]LogBlueprintUserMessages: [PC_RTS_C_0] 0.4218750.569444
+[2023.04.24-08.36.32:782][613]LogBlueprintUserMessages: [PC_RTS_C_0] 0.4203120.566667
+[2023.04.24-08.36.32:792][614]LogBlueprintUserMessages: [PC_RTS_C_0] 0.4203120.565278
+[2023.04.24-08.36.32:803][615]LogBlueprintUserMessages: [PC_RTS_C_0] 0.4203120.558333
+[2023.04.24-08.36.32:813][616]LogBlueprintUserMessages: [PC_RTS_C_0] 0.4203120.558333
+[2023.04.24-08.36.32:822][617]LogBlueprintUserMessages: [PC_RTS_C_0] 0.4195310.55
+[2023.04.24-08.36.32:832][618]LogBlueprintUserMessages: [PC_RTS_C_0] 0.418750.548611
+[2023.04.24-08.36.32:842][619]LogBlueprintUserMessages: [PC_RTS_C_0] 0.418750.545833
+[2023.04.24-08.36.32:850][620]LogBlueprintUserMessages: [PC_RTS_C_0] 0.418750.545833
+[2023.04.24-08.36.32:860][621]LogBlueprintUserMessages: [PC_RTS_C_0] 0.4210940.543056
+[2023.04.24-08.36.32:869][622]LogBlueprintUserMessages: [PC_RTS_C_0] 0.4210940.543056
+[2023.04.24-08.36.32:878][623]LogBlueprintUserMessages: [PC_RTS_C_0] 0.4265630.536111
+[2023.04.24-08.36.32:888][624]LogBlueprintUserMessages: [PC_RTS_C_0] 0.4281250.536111
+[2023.04.24-08.36.32:897][625]LogBlueprintUserMessages: [PC_RTS_C_0] 0.4367190.527778
+[2023.04.24-08.36.32:907][626]LogBlueprintUserMessages: [PC_RTS_C_0] 0.4382810.525
+[2023.04.24-08.36.32:917][627]LogBlueprintUserMessages: [PC_RTS_C_0] 0.4484370.515278
+[2023.04.24-08.36.32:926][628]LogBlueprintUserMessages: [PC_RTS_C_0] 0.4484370.515278
+[2023.04.24-08.36.32:936][629]LogBlueprintUserMessages: [PC_RTS_C_0] 0.4632810.5
+[2023.04.24-08.36.32:947][630]LogBlueprintUserMessages: [PC_RTS_C_0] 0.4750.490278
+[2023.04.24-08.36.32:956][631]LogBlueprintUserMessages: [PC_RTS_C_0] 0.4750.490278
+[2023.04.24-08.36.32:966][632]LogBlueprintUserMessages: [PC_RTS_C_0] 0.5054690.465278
+[2023.04.24-08.36.32:975][633]LogBlueprintUserMessages: [PC_RTS_C_0] 0.5195310.455556
+[2023.04.24-08.36.32:985][634]LogBlueprintUserMessages: [PC_RTS_C_0] 0.5195310.455556
+[2023.04.24-08.36.32:994][635]LogBlueprintUserMessages: [PC_RTS_C_0] 0.5531250.431944
+[2023.04.24-08.36.33:005][636]LogBlueprintUserMessages: [PC_RTS_C_0] 0.5593750.427778
+[2023.04.24-08.36.33:014][637]LogBlueprintUserMessages: [PC_RTS_C_0] 0.5851560.404167
+[2023.04.24-08.36.33:023][638]LogBlueprintUserMessages: [PC_RTS_C_0] 0.5898440.4
+[2023.04.24-08.36.33:032][639]LogBlueprintUserMessages: [PC_RTS_C_0] 0.6031250.377778
+[2023.04.24-08.36.33:042][640]LogBlueprintUserMessages: [PC_RTS_C_0] 0.6031250.377778
+[2023.04.24-08.36.33:051][641]LogBlueprintUserMessages: [PC_RTS_C_0] 0.606250.355556
+[2023.04.24-08.36.33:060][642]LogBlueprintUserMessages: [PC_RTS_C_0] 0.606250.352778
+[2023.04.24-08.36.33:069][643]LogBlueprintUserMessages: [PC_RTS_C_0] 0.60.341667
+[2023.04.24-08.36.33:079][644]LogBlueprintUserMessages: [PC_RTS_C_0] 0.5976560.340278
+[2023.04.24-08.36.33:088][645]LogBlueprintUserMessages: [PC_RTS_C_0] 0.5859380.331944
+[2023.04.24-08.36.33:097][646]LogBlueprintUserMessages: [PC_RTS_C_0] 0.5859380.331944
+[2023.04.24-08.36.33:108][647]LogBlueprintUserMessages: [PC_RTS_C_0] 0.5632810.329167
+[2023.04.24-08.36.33:118][648]LogBlueprintUserMessages: [PC_RTS_C_0] 0.5468750.330556
+[2023.04.24-08.36.33:127][649]LogBlueprintUserMessages: [PC_RTS_C_0] 0.5468750.330556
+[2023.04.24-08.36.33:137][650]LogBlueprintUserMessages: [PC_RTS_C_0] 0.5148440.3375
+[2023.04.24-08.36.33:147][651]LogBlueprintUserMessages: [PC_RTS_C_0] 0.4945310.343056
+[2023.04.24-08.36.33:156][652]LogBlueprintUserMessages: [PC_RTS_C_0] 0.4742190.348611
+[2023.04.24-08.36.33:166][653]LogBlueprintUserMessages: [PC_RTS_C_0] 0.4593750.352778
+[2023.04.24-08.36.33:175][654]LogBlueprintUserMessages: [PC_RTS_C_0] 0.4546880.354167
+[2023.04.24-08.36.33:184][655]LogBlueprintUserMessages: [PC_RTS_C_0] 0.4281250.3625
+[2023.04.24-08.36.33:196][656]LogBlueprintUserMessages: [PC_RTS_C_0] 0.4242190.363889
+[2023.04.24-08.36.33:207][657]LogBlueprintUserMessages: [PC_RTS_C_0] 0.4109380.369444
+[2023.04.24-08.36.33:217][658]LogBlueprintUserMessages: [PC_RTS_C_0] 0.4109380.369444
+[2023.04.24-08.36.33:226][659]LogBlueprintUserMessages: [PC_RTS_C_0] 0.4109380.369444
+[2023.04.24-08.36.33:236][660]LogBlueprintUserMessages: [PC_RTS_C_0] 0.4164060.369444
+[2023.04.24-08.36.33:245][661]LogBlueprintUserMessages: [PC_RTS_C_0] 0.4164060.369444
+[2023.04.24-08.36.33:254][662]LogBlueprintUserMessages: [PC_RTS_C_0] 0.4343750.369444
+[2023.04.24-08.36.33:264][663]LogBlueprintUserMessages: [PC_RTS_C_0] 0.4398440.368056
+[2023.04.24-08.36.33:273][664]LogBlueprintUserMessages: [PC_RTS_C_0] 0.4617190.365278
+[2023.04.24-08.36.33:282][665]LogBlueprintUserMessages: [PC_RTS_C_0] 0.4664060.363889
+[2023.04.24-08.36.33:292][666]LogBlueprintUserMessages: [PC_RTS_C_0] 0.4960940.361111
+[2023.04.24-08.36.33:302][667]LogBlueprintUserMessages: [PC_RTS_C_0] 0.4960940.361111
+[2023.04.24-08.36.33:311][668]LogBlueprintUserMessages: [PC_RTS_C_0] 0.5273440.361111
+[2023.04.24-08.36.33:321][669]LogBlueprintUserMessages: [PC_RTS_C_0] 0.5765620.359722
+[2023.04.24-08.36.33:332][670]LogBlueprintUserMessages: [PC_RTS_C_0] 0.5765620.359722
+[2023.04.24-08.36.33:342][671]LogBlueprintUserMessages: [PC_RTS_C_0] 0.6515630.359722
+[2023.04.24-08.36.33:352][672]LogBlueprintUserMessages: [PC_RTS_C_0] 0.6640620.359722
+[2023.04.24-08.36.33:362][673]LogBlueprintUserMessages: [PC_RTS_C_0] 0.7179690.358333
+[2023.04.24-08.36.33:371][674]LogBlueprintUserMessages: [PC_RTS_C_0] 0.731250.356944
+[2023.04.24-08.36.33:380][675]LogBlueprintUserMessages: [PC_RTS_C_0] 0.7804690.354167
+[2023.04.24-08.36.33:390][676]LogBlueprintUserMessages: [PC_RTS_C_0] 0.7804690.354167
+[2023.04.24-08.36.33:399][677]LogBlueprintUserMessages: [PC_RTS_C_0] 0.8281250.35
+[2023.04.24-08.36.33:408][678]LogBlueprintUserMessages: [PC_RTS_C_0] 0.8351560.35
+[2023.04.24-08.36.33:419][679]LogBlueprintUserMessages: [PC_RTS_C_0] 0.8695310.347222
+[2023.04.24-08.36.33:429][680]LogBlueprintUserMessages: [PC_RTS_C_0] 0.8765630.347222
+[2023.04.24-08.36.33:438][681]LogBlueprintUserMessages: [PC_RTS_C_0] 0.9015630.347222
+[2023.04.24-08.36.33:447][682]LogBlueprintUserMessages: [PC_RTS_C_0] 0.9015630.347222
+[2023.04.24-08.36.33:458][683]LogBlueprintUserMessages: [PC_RTS_C_0] 0.9218750.347222
+[2023.04.24-08.36.33:469][684]LogBlueprintUserMessages: [PC_RTS_C_0] 0.9234380.347222
+[2023.04.24-08.36.33:479][685]LogBlueprintUserMessages: [PC_RTS_C_0] 0.9281250.347222
+[2023.04.24-08.36.33:488][686]LogBlueprintUserMessages: [PC_RTS_C_0] 0.9281250.347222
+[2023.04.24-08.36.33:497][687]LogBlueprintUserMessages: [PC_RTS_C_0] 0.9281250.347222
+[2023.04.24-08.36.33:506][688]LogBlueprintUserMessages: [PC_RTS_C_0] 0.9281250.347222
+[2023.04.24-08.36.33:516][689]LogBlueprintUserMessages: [PC_RTS_C_0] 0.9281250.347222
+[2023.04.24-08.36.33:524][690]LogBlueprintUserMessages: [PC_RTS_C_0] 0.9281250.347222
+[2023.04.24-08.36.33:533][691]LogBlueprintUserMessages: [PC_RTS_C_0] 0.9281250.347222
+[2023.04.24-08.36.33:543][692]LogBlueprintUserMessages: [PC_RTS_C_0] 0.9289060.348611
+[2023.04.24-08.36.33:553][693]LogBlueprintUserMessages: [PC_RTS_C_0] 0.9359370.354167
+[2023.04.24-08.36.33:562][694]LogBlueprintUserMessages: [PC_RTS_C_0] 0.9359370.354167
+[2023.04.24-08.36.33:572][695]LogBlueprintUserMessages: [PC_RTS_C_0] 0.9476560.361111
+[2023.04.24-08.36.33:582][696]LogBlueprintUserMessages: [PC_RTS_C_0] 0.9492190.361111
+[2023.04.24-08.36.33:591][697]LogBlueprintUserMessages: [PC_RTS_C_0] 0.956250.365278
+[2023.04.24-08.36.33:601][698]LogBlueprintUserMessages: [PC_RTS_C_0] 0.9570310.365278
+[2023.04.24-08.36.33:610][699]LogBlueprintUserMessages: [PC_RTS_C_0] 0.9585940.365278
+[2023.04.24-08.36.33:619][700]LogBlueprintUserMessages: [PC_RTS_C_0] 0.9585940.365278
+[2023.04.24-08.36.33:629][701]LogBlueprintUserMessages: [PC_RTS_C_0] 0.9585940.365278
+[2023.04.24-08.36.33:638][702]LogBlueprintUserMessages: [PC_RTS_C_0] 0.9585940.365278
+[2023.04.24-08.36.33:648][703]LogBlueprintUserMessages: [PC_RTS_C_0] 0.9585940.365278
+[2023.04.24-08.36.33:658][704]LogBlueprintUserMessages: [PC_RTS_C_0] 0.9585940.365278
+[2023.04.24-08.36.33:667][705]LogBlueprintUserMessages: [PC_RTS_C_0] 0.9585940.365278
+[2023.04.24-08.36.33:676][706]LogBlueprintUserMessages: [PC_RTS_C_0] 0.9585940.365278
+[2023.04.24-08.36.33:685][707]LogBlueprintUserMessages: [PC_RTS_C_0] 0.9585940.365278
+[2023.04.24-08.36.33:693][708]LogBlueprintUserMessages: [PC_RTS_C_0] 0.9585940.365278
+[2023.04.24-08.36.33:703][709]LogBlueprintUserMessages: [PC_RTS_C_0] 0.96250.369444
+[2023.04.24-08.36.33:713][710]LogBlueprintUserMessages: [PC_RTS_C_0] 0.968750.373611
+[2023.04.24-08.36.33:722][711]LogBlueprintUserMessages: [PC_RTS_C_0] 0.9710940.375
+[2023.04.24-08.36.33:731][712]LogBlueprintUserMessages: [PC_RTS_C_0] 0.9859380.381944
+[2023.04.24-08.36.33:740][713]LogBlueprintUserMessages: [PC_RTS_C_0] 0.9890620.383333
+[2023.04.24-08.36.33:750][714]LogBlueprintUserMessages: [PC_RTS_C_0] 0.9984370.386111
+[2023.04.24-08.36.33:760][715]LogBlueprintUserMessages: [PC_RTS_C_0] 0.9984370.386111
+[2023.04.24-08.36.33:770][716]LogBlueprintUserMessages: [PC_RTS_C_0] 0.9984370.3875
+[2023.04.24-08.36.33:779][717]LogBlueprintUserMessages: [PC_RTS_C_0] 0.9984370.3875
+[2023.04.24-08.36.33:788][718]LogBlueprintUserMessages: [PC_RTS_C_0] 0.9984370.3875
+[2023.04.24-08.36.33:797][719]LogBlueprintUserMessages: [PC_RTS_C_0] 0.9984370.3875
+[2023.04.24-08.36.33:806][720]LogBlueprintUserMessages: [PC_RTS_C_0] 0.9984370.3875
+[2023.04.24-08.36.33:816][721]LogBlueprintUserMessages: [PC_RTS_C_0] 0.9984370.3875
+[2023.04.24-08.36.33:825][722]LogBlueprintUserMessages: [PC_RTS_C_0] 0.9984370.3875
+[2023.04.24-08.36.33:835][723]LogBlueprintUserMessages: [PC_RTS_C_0] 0.9984370.3875
+[2023.04.24-08.36.33:844][724]LogBlueprintUserMessages: [PC_RTS_C_0] 0.9984370.3875
+[2023.04.24-08.36.33:854][725]LogBlueprintUserMessages: [PC_RTS_C_0] 0.9984370.388889
+[2023.04.24-08.36.33:863][726]LogBlueprintUserMessages: [PC_RTS_C_0] 0.9953130.390278
+[2023.04.24-08.36.33:873][727]LogBlueprintUserMessages: [PC_RTS_C_0] 0.9953130.390278
+[2023.04.24-08.36.33:883][728]LogBlueprintUserMessages: [PC_RTS_C_0] 0.9843750.394444
+[2023.04.24-08.36.33:892][729]LogBlueprintUserMessages: [PC_RTS_C_0] 0.9820310.395833
+[2023.04.24-08.36.33:902][730]LogBlueprintUserMessages: [PC_RTS_C_0] 0.9632810.401389
+[2023.04.24-08.36.33:911][731]LogBlueprintUserMessages: [PC_RTS_C_0] 0.9492190.405556
+[2023.04.24-08.36.33:920][732]LogBlueprintUserMessages: [PC_RTS_C_0] 0.943750.406944
+[2023.04.24-08.36.33:929][733]LogBlueprintUserMessages: [PC_RTS_C_0] 0.9132810.415278
+[2023.04.24-08.36.33:938][734]LogBlueprintUserMessages: [PC_RTS_C_0] 0.9046870.416667
+[2023.04.24-08.36.33:947][735]LogBlueprintUserMessages: [PC_RTS_C_0] 0.8640620.422222
+[2023.04.24-08.36.33:956][736]LogBlueprintUserMessages: [PC_RTS_C_0] 0.8335940.425
+[2023.04.24-08.36.33:965][737]LogBlueprintUserMessages: [PC_RTS_C_0] 0.8242190.426389
+[2023.04.24-08.36.33:974][738]LogBlueprintUserMessages: [PC_RTS_C_0] 0.76250.429167
+[2023.04.24-08.36.33:985][739]LogBlueprintUserMessages: [PC_RTS_C_0] 0.76250.429167
+[2023.04.24-08.36.33:996][740]LogBlueprintUserMessages: [PC_RTS_C_0] 0.66250.445833
+[2023.04.24-08.36.34:006][741]LogBlueprintUserMessages: [PC_RTS_C_0] 0.650.45
+[2023.04.24-08.36.34:016][742]LogBlueprintUserMessages: [PC_RTS_C_0] 0.5843750.475
+[2023.04.24-08.36.34:025][743]LogBlueprintUserMessages: [PC_RTS_C_0] 0.5726560.480556
+[2023.04.24-08.36.34:034][744]LogBlueprintUserMessages: [PC_RTS_C_0] 0.5132810.516667
+[2023.04.24-08.36.34:044][745]LogBlueprintUserMessages: [PC_RTS_C_0] 0.5132810.516667
+[2023.04.24-08.36.34:054][746]LogBlueprintUserMessages: [PC_RTS_C_0] 0.4445310.5625
+[2023.04.24-08.36.34:063][747]LogBlueprintUserMessages: [PC_RTS_C_0] 0.4367190.566667
+[2023.04.24-08.36.34:072][748]LogBlueprintUserMessages: [PC_RTS_C_0] 0.3898440.593056
+[2023.04.24-08.36.34:082][749]LogBlueprintUserMessages: [PC_RTS_C_0] 0.3835940.595833
+[2023.04.24-08.36.34:092][750]LogBlueprintUserMessages: [PC_RTS_C_0] 0.3390620.613889
+[2023.04.24-08.36.34:101][751]LogBlueprintUserMessages: [PC_RTS_C_0] 0.3179690.619444
+[2023.04.24-08.36.34:111][752]LogBlueprintUserMessages: [PC_RTS_C_0] 0.2992190.623611
+[2023.04.24-08.36.34:120][753]LogBlueprintUserMessages: [PC_RTS_C_0] 0.2929690.623611
+[2023.04.24-08.36.34:129][754]LogBlueprintUserMessages: [PC_RTS_C_0] 0.2656250.627778
+[2023.04.24-08.36.34:139][755]LogBlueprintUserMessages: [PC_RTS_C_0] 0.2617190.627778
+[2023.04.24-08.36.34:148][756]LogBlueprintUserMessages: [PC_RTS_C_0] 0.2367190.627778
+[2023.04.24-08.36.34:159][757]LogBlueprintUserMessages: [PC_RTS_C_0] 0.2367190.627778
+[2023.04.24-08.36.34:171][758]LogBlueprintUserMessages: [PC_RTS_C_0] 0.206250.622222
+[2023.04.24-08.36.34:181][759]LogBlueprintUserMessages: [PC_RTS_C_0] 0.2015630.620833
+[2023.04.24-08.36.34:191][760]LogBlueprintUserMessages: [PC_RTS_C_0] 0.1820310.615278
+[2023.04.24-08.36.34:202][761]LogBlueprintUserMessages: [PC_RTS_C_0] 0.1796880.613889
+[2023.04.24-08.36.34:211][762]LogBlueprintUserMessages: [PC_RTS_C_0] 0.1671870.609722
+[2023.04.24-08.36.34:221][763]LogBlueprintUserMessages: [PC_RTS_C_0] 0.1671870.609722
+[2023.04.24-08.36.34:231][764]LogBlueprintUserMessages: [PC_RTS_C_0] 0.1593750.598611
+[2023.04.24-08.36.34:243][765]LogBlueprintUserMessages: [PC_RTS_C_0] 0.1585940.594444
+[2023.04.24-08.36.34:253][766]LogBlueprintUserMessages: [PC_RTS_C_0] 0.1578120.570833
+[2023.04.24-08.36.34:263][767]LogBlueprintUserMessages: [PC_RTS_C_0] 0.1578120.565278
+[2023.04.24-08.36.34:272][768]LogBlueprintUserMessages: [PC_RTS_C_0] 0.1656250.529167
+[2023.04.24-08.36.34:281][769]LogBlueprintUserMessages: [PC_RTS_C_0] 0.1656250.529167
+[2023.04.24-08.36.34:291][770]LogBlueprintUserMessages: [PC_RTS_C_0] 0.1820310.456944
+[2023.04.24-08.36.34:300][771]LogBlueprintUserMessages: [PC_RTS_C_0] 0.1890620.422222
+[2023.04.24-08.36.34:311][772]LogBlueprintUserMessages: [PC_RTS_C_0] 0.1890620.422222
+[2023.04.24-08.36.34:321][773]LogBlueprintUserMessages: [PC_RTS_C_0] 0.2109380.313889
+[2023.04.24-08.36.34:331][774]LogBlueprintUserMessages: [PC_RTS_C_0] 0.21250.302778
+[2023.04.24-08.36.34:341][775]LogBlueprintUserMessages: [PC_RTS_C_0] 0.2242190.227778
+[2023.04.24-08.36.34:350][776]LogBlueprintUserMessages: [PC_RTS_C_0] 0.2289060.195833
+[2023.04.24-08.36.34:359][777]LogBlueprintUserMessages: [PC_RTS_C_0] 0.2320310.181944
+[2023.04.24-08.36.34:369][778]LogBlueprintUserMessages: [PC_RTS_C_0] 0.2421880.130556
+[2023.04.24-08.36.34:379][779]LogBlueprintUserMessages: [PC_RTS_C_0] 0.250.1
+[2023.04.24-08.36.34:388][780]LogBlueprintUserMessages: [PC_RTS_C_0] 0.2523440.090278
+[2023.04.24-08.36.34:398][781]LogBlueprintUserMessages: [PC_RTS_C_0] 0.2664060.045833
+[2023.04.24-08.36.34:408][782]LogBlueprintUserMessages: [PC_RTS_C_0] 0.268750.0375
+[2023.04.24-08.36.34:417][783]LogBlueprintUserMessages: [PC_RTS_C_0] 0.2851560.001389
+[2023.04.24-08.36.34:426][784]LogBlueprintUserMessages: [PC_RTS_C_0] 0.2953120.001389
+[2023.04.24-08.36.34:436][785]LogBlueprintUserMessages: [PC_RTS_C_0] 0.2992190.001389
+[2023.04.24-08.36.34:445][786]LogBlueprintUserMessages: [PC_RTS_C_0] 0.318750.001389
+[2023.04.24-08.36.34:455][787]LogBlueprintUserMessages: [PC_RTS_C_0] 0.318750.001389
+[2023.04.24-08.36.34:464][788]LogBlueprintUserMessages: [PC_RTS_C_0] 0.3460940.001389
+[2023.04.24-08.36.34:474][789]LogBlueprintUserMessages: [PC_RTS_C_0] 0.3507810.001389
+[2023.04.24-08.36.34:483][790]LogBlueprintUserMessages: [PC_RTS_C_0] 0.3757810.001389
+[2023.04.24-08.36.34:492][791]LogBlueprintUserMessages: [PC_RTS_C_0] 0.3820310.001389
+[2023.04.24-08.36.34:502][792]LogBlueprintUserMessages: [PC_RTS_C_0] 0.4093750.001389
+[2023.04.24-08.36.34:512][793]LogBlueprintUserMessages: [PC_RTS_C_0] 0.4093750.001389
+[2023.04.24-08.36.34:521][794]LogBlueprintUserMessages: [PC_RTS_C_0] 0.4390630.001389
+[2023.04.24-08.36.34:531][795]LogBlueprintUserMessages: [PC_RTS_C_0] 0.4531250.001389
+[2023.04.24-08.36.34:540][796]LogBlueprintUserMessages: [PC_RTS_C_0] 0.4640620.002778
+[2023.04.24-08.36.34:550][797]LogBlueprintUserMessages: [PC_RTS_C_0] 0.4664060.004167
+[2023.04.24-08.36.34:561][798]LogBlueprintUserMessages: [PC_RTS_C_0] 0.4773440.008333
+[2023.04.24-08.36.34:570][799]LogBlueprintUserMessages: [PC_RTS_C_0] 0.4773440.008333
+[2023.04.24-08.36.34:579][800]LogBlueprintUserMessages: [PC_RTS_C_0] 0.4796870.011111
+[2023.04.24-08.36.34:587][801]LogBlueprintUserMessages: [PC_RTS_C_0] 0.4796870.011111
+[2023.04.24-08.36.34:596][802]LogBlueprintUserMessages: [PC_RTS_C_0] 0.4796870.011111
+[2023.04.24-08.36.34:606][803]LogBlueprintUserMessages: [PC_RTS_C_0] 0.4796870.011111
+[2023.04.24-08.36.34:615][804]LogBlueprintUserMessages: [PC_RTS_C_0] 0.4796870.011111
+[2023.04.24-08.36.34:625][805]LogBlueprintUserMessages: [PC_RTS_C_0] 0.4796870.011111
+[2023.04.24-08.36.34:633][806]LogBlueprintUserMessages: [PC_RTS_C_0] 0.4796870.011111
+[2023.04.24-08.36.34:642][807]LogBlueprintUserMessages: [PC_RTS_C_0] 0.4796870.011111
+[2023.04.24-08.36.34:651][808]LogBlueprintUserMessages: [PC_RTS_C_0] 0.4796870.011111
+[2023.04.24-08.36.34:660][809]LogBlueprintUserMessages: [PC_RTS_C_0] 0.4796870.011111
+[2023.04.24-08.36.34:669][810]LogBlueprintUserMessages: [PC_RTS_C_0] 0.4765620.0125
+[2023.04.24-08.36.34:678][811]LogBlueprintUserMessages: [PC_RTS_C_0] 0.4765620.0125
+[2023.04.24-08.36.34:688][812]LogBlueprintUserMessages: [PC_RTS_C_0] 0.468750.013889
+[2023.04.24-08.36.34:698][813]LogBlueprintUserMessages: [PC_RTS_C_0] 0.4664060.013889
+[2023.04.24-08.36.34:707][814]LogBlueprintUserMessages: [PC_RTS_C_0] 0.4539060.015278
+[2023.04.24-08.36.34:717][815]LogBlueprintUserMessages: [PC_RTS_C_0] 0.4515620.015278
+[2023.04.24-08.36.34:726][816]LogBlueprintUserMessages: [PC_RTS_C_0] 0.4328120.015278
+[2023.04.24-08.36.34:735][817]LogBlueprintUserMessages: [PC_RTS_C_0] 0.4195310.015278
+[2023.04.24-08.36.34:745][818]LogBlueprintUserMessages: [PC_RTS_C_0] 0.4148440.015278
+[2023.04.24-08.36.34:754][819]LogBlueprintUserMessages: [PC_RTS_C_0] 0.381250.020833
+[2023.04.24-08.36.34:764][820]LogBlueprintUserMessages: [PC_RTS_C_0] 0.3570310.026389
+[2023.04.24-08.36.34:773][821]LogBlueprintUserMessages: [PC_RTS_C_0] 0.3468750.029167
+[2023.04.24-08.36.34:782][822]LogBlueprintUserMessages: [PC_RTS_C_0] 0.2960940.045833
+[2023.04.24-08.36.34:792][823]LogBlueprintUserMessages: [PC_RTS_C_0] 0.2609370.059722
+[2023.04.24-08.36.34:802][824]LogBlueprintUserMessages: [PC_RTS_C_0] 0.2468750.066667
+[2023.04.24-08.36.34:812][825]LogBlueprintUserMessages: [PC_RTS_C_0] 0.1859380.094444
+[2023.04.24-08.36.34:821][826]LogBlueprintUserMessages: [PC_RTS_C_0] 0.1859380.094444
+[2023.04.24-08.36.34:831][827]LogBlueprintUserMessages: [PC_RTS_C_0] 0.1179690.129167
+[2023.04.24-08.36.34:840][828]LogBlueprintUserMessages: [PC_RTS_C_0] 0.0914060.141667
+[2023.04.24-08.36.34:850][829]LogBlueprintUserMessages: [PC_RTS_C_0] 0.0914060.141667
+[2023.04.24-08.36.34:859][830]LogBlueprintUserMessages: [PC_RTS_C_0] 0.0492190.161111
+[2023.04.24-08.36.34:869][831]LogBlueprintUserMessages: [PC_RTS_C_0] 0.0335940.169444
+[2023.04.24-08.36.34:879][832]LogBlueprintUserMessages: [PC_RTS_C_0] 0.0335940.169444
+[2023.04.24-08.36.34:889][833]LogBlueprintUserMessages: [PC_RTS_C_0] 0.0179690.181944
+[2023.04.24-08.36.34:898][834]LogBlueprintUserMessages: [PC_RTS_C_0] 0.0164060.183333
+[2023.04.24-08.36.34:907][835]LogBlueprintUserMessages: [PC_RTS_C_0] 0.0140630.193056
+[2023.04.24-08.36.34:917][836]LogBlueprintUserMessages: [PC_RTS_C_0] 0.0140630.198611
+[2023.04.24-08.36.34:926][837]LogBlueprintUserMessages: [PC_RTS_C_0] 0.0140630.201389
+[2023.04.24-08.36.34:935][838]LogBlueprintUserMessages: [PC_RTS_C_0] 0.0148440.215278
+[2023.04.24-08.36.34:946][839]LogBlueprintUserMessages: [PC_RTS_C_0] 0.0156250.219444
+[2023.04.24-08.36.34:955][840]LogBlueprintUserMessages: [PC_RTS_C_0] 0.0203130.251389
+[2023.04.24-08.36.34:964][841]LogBlueprintUserMessages: [PC_RTS_C_0] 0.0203130.251389
+[2023.04.24-08.36.34:974][842]LogBlueprintUserMessages: [PC_RTS_C_0] 0.0289060.304167
+[2023.04.24-08.36.34:983][843]LogBlueprintUserMessages: [PC_RTS_C_0] 0.0304690.3125
+[2023.04.24-08.36.34:993][844]LogBlueprintUserMessages: [PC_RTS_C_0] 0.0382810.370833
+[2023.04.24-08.36.35:002][845]LogBlueprintUserMessages: [PC_RTS_C_0] 0.0406250.386111
+[2023.04.24-08.36.35:012][846]LogBlueprintUserMessages: [PC_RTS_C_0] 0.0468750.455556
+[2023.04.24-08.36.35:021][847]LogBlueprintUserMessages: [PC_RTS_C_0] 0.0468750.455556
+[2023.04.24-08.36.35:030][848]LogBlueprintUserMessages: [PC_RTS_C_0] 0.0523440.526389
+[2023.04.24-08.36.35:040][849]LogBlueprintUserMessages: [PC_RTS_C_0] 0.0523440.536111
+[2023.04.24-08.36.35:049][850]LogBlueprintUserMessages: [PC_RTS_C_0] 0.0570310.586111
+[2023.04.24-08.36.35:059][851]LogBlueprintUserMessages: [PC_RTS_C_0] 0.0585940.595833
+[2023.04.24-08.36.35:068][852]LogBlueprintUserMessages: [PC_RTS_C_0] 0.0679690.638889
+[2023.04.24-08.36.35:077][853]LogBlueprintUserMessages: [PC_RTS_C_0] 0.0679690.638889
+[2023.04.24-08.36.35:088][854]LogBlueprintUserMessages: [PC_RTS_C_0] 0.0851560.676389
+[2023.04.24-08.36.35:097][855]LogBlueprintUserMessages: [PC_RTS_C_0] 0.0953120.686111
+[2023.04.24-08.36.35:107][856]LogBlueprintUserMessages: [PC_RTS_C_0] 0.0953120.686111
+[2023.04.24-08.36.35:116][857]LogBlueprintUserMessages: [PC_RTS_C_0] 0.1156250.691667
+[2023.04.24-08.36.35:126][858]LogBlueprintUserMessages: [PC_RTS_C_0] 0.118750.691667
+[2023.04.24-08.36.35:136][859]LogBlueprintUserMessages: [PC_RTS_C_0] 0.143750.686111
+[2023.04.24-08.36.35:147][860]LogBlueprintUserMessages: [PC_RTS_C_0] 0.1640620.677778
+[2023.04.24-08.36.35:157][861]LogBlueprintUserMessages: [PC_RTS_C_0] 0.1703130.675
+[2023.04.24-08.36.35:167][862]LogBlueprintUserMessages: [PC_RTS_C_0] 0.2101560.652778
+[2023.04.24-08.36.35:176][863]LogBlueprintUserMessages: [PC_RTS_C_0] 0.2171880.647222
+[2023.04.24-08.36.35:185][864]LogBlueprintUserMessages: [PC_RTS_C_0] 0.2539060.6125
+[2023.04.24-08.36.35:195][865]LogBlueprintUserMessages: [PC_RTS_C_0] 0.2539060.6125
+[2023.04.24-08.36.35:205][866]LogBlueprintUserMessages: [PC_RTS_C_0] 0.2929690.555556
+[2023.04.24-08.36.35:215][867]LogBlueprintUserMessages: [PC_RTS_C_0] 0.3078120.526389
+[2023.04.24-08.36.35:224][868]LogBlueprintUserMessages: [PC_RTS_C_0] 0.3078120.526389
+[2023.04.24-08.36.35:233][869]LogBlueprintUserMessages: [PC_RTS_C_0] 0.3296880.475
+[2023.04.24-08.36.35:242][870]LogBlueprintUserMessages: [PC_RTS_C_0] 0.3320310.468056
+[2023.04.24-08.36.35:252][871]LogBlueprintUserMessages: [PC_RTS_C_0] 0.3421870.430556
+[2023.04.24-08.36.35:262][872]LogBlueprintUserMessages: [PC_RTS_C_0] 0.3453130.409722
+[2023.04.24-08.36.35:272][873]LogBlueprintUserMessages: [PC_RTS_C_0] 0.3468750.391667
+[2023.04.24-08.36.35:284][874]LogBlueprintUserMessages: [PC_RTS_C_0] 0.3468750.391667
+[2023.04.24-08.36.35:294][875]LogBlueprintUserMessages: [PC_RTS_C_0] 0.3468750.365278
+[2023.04.24-08.36.35:304][876]LogBlueprintUserMessages: [PC_RTS_C_0] 0.3460940.363889
+[2023.04.24-08.36.35:312][877]LogBlueprintUserMessages: [PC_RTS_C_0] 0.343750.355556
+[2023.04.24-08.36.35:322][878]LogBlueprintUserMessages: [PC_RTS_C_0] 0.343750.354167
+[2023.04.24-08.36.35:331][879]LogBlueprintUserMessages: [PC_RTS_C_0] 0.3421870.351389
+[2023.04.24-08.36.35:340][880]LogBlueprintUserMessages: [PC_RTS_C_0] 0.3421870.351389
+[2023.04.24-08.36.35:351][881]LogBlueprintUserMessages: [PC_RTS_C_0] 0.3421870.351389
+[2023.04.24-08.36.35:359][882]LogBlueprintUserMessages: [PC_RTS_C_0] 0.3421870.351389
+[2023.04.24-08.36.35:368][883]LogBlueprintUserMessages: [PC_RTS_C_0] 0.3421870.351389
+[2023.04.24-08.36.35:377][884]LogBlueprintUserMessages: [PC_RTS_C_0] 0.3421870.351389
+[2023.04.24-08.36.35:386][885]LogBlueprintUserMessages: [PC_RTS_C_0] 0.3421870.351389
+[2023.04.24-08.36.35:394][886]LogBlueprintUserMessages: [PC_RTS_C_0] 0.3421870.351389
+[2023.04.24-08.36.35:404][887]LogBlueprintUserMessages: [PC_RTS_C_0] 0.3421870.351389
+[2023.04.24-08.36.35:413][888]LogBlueprintUserMessages: [PC_RTS_C_0] 0.3421870.351389
+[2023.04.24-08.36.35:422][889]LogBlueprintUserMessages: [PC_RTS_C_0] 0.3421870.351389
+[2023.04.24-08.36.35:431][890]LogBlueprintUserMessages: [PC_RTS_C_0] 0.3421870.351389
+[2023.04.24-08.36.35:440][891]LogBlueprintUserMessages: [PC_RTS_C_0] 0.3406250.356944
+[2023.04.24-08.36.35:449][892]LogBlueprintUserMessages: [PC_RTS_C_0] 0.3406250.356944
+[2023.04.24-08.36.35:458][893]LogBlueprintUserMessages: [PC_RTS_C_0] 0.3367190.363889
+[2023.04.24-08.36.35:468][894]LogBlueprintUserMessages: [PC_RTS_C_0] 0.3359380.365278
+[2023.04.24-08.36.35:477][895]LogBlueprintUserMessages: [PC_RTS_C_0] 0.3328130.369444
+[2023.04.24-08.36.35:487][896]LogBlueprintUserMessages: [PC_RTS_C_0] 0.3320310.369444
+[2023.04.24-08.36.35:496][897]LogBlueprintUserMessages: [PC_RTS_C_0] 0.3296880.372222
+[2023.04.24-08.36.35:505][898]LogBlueprintUserMessages: [PC_RTS_C_0] 0.3296880.372222
+[2023.04.24-08.36.35:514][899]LogBlueprintUserMessages: [PC_RTS_C_0] 0.3250.375
+[2023.04.24-08.36.35:523][900]LogBlueprintUserMessages: [PC_RTS_C_0] 0.3234370.375
+[2023.04.24-08.36.35:533][901]LogBlueprintUserMessages: [PC_RTS_C_0] 0.3140630.379167
+[2023.04.24-08.36.35:543][902]LogBlueprintUserMessages: [PC_RTS_C_0] 0.31250.380556
+[2023.04.24-08.36.35:552][903]LogBlueprintUserMessages: [PC_RTS_C_0] 0.2992190.386111
+[2023.04.24-08.36.35:562][904]LogBlueprintUserMessages: [PC_RTS_C_0] 0.2992190.386111
+[2023.04.24-08.36.35:571][905]LogBlueprintUserMessages: [PC_RTS_C_0] 0.2867190.395833
+[2023.04.24-08.36.35:580][906]LogBlueprintUserMessages: [PC_RTS_C_0] 0.2851560.397222
+[2023.04.24-08.36.35:590][907]LogBlueprintUserMessages: [PC_RTS_C_0] 0.2773440.404167
+[2023.04.24-08.36.35:599][908]LogBlueprintUserMessages: [PC_RTS_C_0] 0.2757810.405556
+[2023.04.24-08.36.35:611][909]LogBlueprintUserMessages: [PC_RTS_C_0] 0.2679690.4125
+[2023.04.24-08.36.35:619][910]LogBlueprintUserMessages: [PC_RTS_C_0] 0.2679690.4125
+[2023.04.24-08.36.35:628][911]LogBlueprintUserMessages: [PC_RTS_C_0] 0.2679690.4125
+[2023.04.24-08.36.35:637][912]LogBlueprintUserMessages: [PC_RTS_C_0] 0.2679690.4125
+[2023.04.24-08.36.35:646][913]LogBlueprintUserMessages: [PC_RTS_C_0] 0.2679690.4125
+[2023.04.24-08.36.35:655][914]LogBlueprintUserMessages: [PC_RTS_C_0] 0.2679690.4125
+[2023.04.24-08.36.35:664][915]LogBlueprintUserMessages: [PC_RTS_C_0] 0.2679690.4125
+[2023.04.24-08.36.35:672][916]LogBlueprintUserMessages: [PC_RTS_C_0] 0.2679690.4125
+[2023.04.24-08.36.35:681][917]LogBlueprintUserMessages: [PC_RTS_C_0] 0.2679690.4125
+[2023.04.24-08.36.35:689][918]LogBlueprintUserMessages: [PC_RTS_C_0] 0.2679690.4125
+[2023.04.24-08.36.35:699][919]LogBlueprintUserMessages: [PC_RTS_C_0] 0.2679690.419444
+[2023.04.24-08.36.35:708][920]LogBlueprintUserMessages: [PC_RTS_C_0] 0.2820310.436111
+[2023.04.24-08.36.35:718][921]LogBlueprintUserMessages: [PC_RTS_C_0] 0.2851560.438889
+[2023.04.24-08.36.35:727][922]LogBlueprintUserMessages: [PC_RTS_C_0] 0.3039060.455556
+[2023.04.24-08.36.35:736][923]LogBlueprintUserMessages: [PC_RTS_C_0] 0.3070310.456944
+[2023.04.24-08.36.35:746][924]LogBlueprintUserMessages: [PC_RTS_C_0] 0.3281250.470833
+[2023.04.24-08.36.35:755][925]LogBlueprintUserMessages: [PC_RTS_C_0] 0.3281250.470833
+[2023.04.24-08.36.35:764][926]LogBlueprintUserMessages: [PC_RTS_C_0] 0.3601560.493056
+[2023.04.24-08.36.35:773][927]LogBlueprintUserMessages: [PC_RTS_C_0] 0.3656250.497222
+[2023.04.24-08.36.35:782][928]LogBlueprintUserMessages: [PC_RTS_C_0] 0.3921880.519444
+[2023.04.24-08.36.35:791][929]LogBlueprintUserMessages: [PC_RTS_C_0] 0.3968750.525
+[2023.04.24-08.36.35:800][930]LogBlueprintUserMessages: [PC_RTS_C_0] 0.4132810.547222
+[2023.04.24-08.36.35:810][931]LogBlueprintUserMessages: [PC_RTS_C_0] 0.4132810.547222
+[2023.04.24-08.36.35:822][932]LogBlueprintUserMessages: [PC_RTS_C_0] 0.4234380.583333
+[2023.04.24-08.36.35:830][933]LogBlueprintUserMessages: [PC_RTS_C_0] 0.4234380.583333
+[2023.04.24-08.36.35:840][934]LogBlueprintUserMessages: [PC_RTS_C_0] 0.4242190.6
+[2023.04.24-08.36.35:849][935]LogBlueprintUserMessages: [PC_RTS_C_0] 0.4242190.6
+[2023.04.24-08.36.35:858][936]LogBlueprintUserMessages: [PC_RTS_C_0] 0.4234380.619444
+[2023.04.24-08.36.35:867][937]LogBlueprintUserMessages: [PC_RTS_C_0] 0.4234380.619444
+[2023.04.24-08.36.35:876][938]LogBlueprintUserMessages: [PC_RTS_C_0] 0.4195310.6375
+[2023.04.24-08.36.35:885][939]LogBlueprintUserMessages: [PC_RTS_C_0] 0.4195310.6375
+[2023.04.24-08.36.35:894][940]LogBlueprintUserMessages: [PC_RTS_C_0] 0.4156250.654167
+[2023.04.24-08.36.35:903][941]LogBlueprintUserMessages: [PC_RTS_C_0] 0.4156250.654167
+[2023.04.24-08.36.35:912][942]LogBlueprintUserMessages: [PC_RTS_C_0] 0.4109380.670833
+[2023.04.24-08.36.35:922][943]LogBlueprintUserMessages: [PC_RTS_C_0] 0.4109380.670833
+[2023.04.24-08.36.35:931][944]LogBlueprintUserMessages: [PC_RTS_C_0] 0.4046870.7
+[2023.04.24-08.36.35:941][945]LogBlueprintUserMessages: [PC_RTS_C_0] 0.4046870.7
+[2023.04.24-08.36.35:950][946]LogBlueprintUserMessages: [PC_RTS_C_0] 0.393750.758333
+[2023.04.24-08.36.35:959][947]LogBlueprintUserMessages: [PC_RTS_C_0] 0.393750.758333
+[2023.04.24-08.36.35:968][948]LogBlueprintUserMessages: [PC_RTS_C_0] 0.381250.848611
+[2023.04.24-08.36.35:977][949]LogBlueprintUserMessages: [PC_RTS_C_0] 0.381250.848611
+[2023.04.24-08.36.35:987][950]LogBlueprintUserMessages: [PC_RTS_C_0] 0.3664060.956944
+[2023.04.24-08.36.35:996][951]LogBlueprintUserMessages: [PC_RTS_C_0] 0.3664060.956944
+[2023.04.24-08.36.36:006][952]LogBlueprintUserMessages: [PC_RTS_C_0] 0.3523440.997222
+[2023.04.24-08.36.36:015][953]LogBlueprintUserMessages: [PC_RTS_C_0] 0.3476560.997222
+[2023.04.24-08.36.36:024][954]LogBlueprintUserMessages: [PC_RTS_C_0] 0.3476560.997222
+[2023.04.24-08.36.36:034][955]LogBlueprintUserMessages: [PC_RTS_C_0] 0.3406250.997222
+[2023.04.24-08.36.36:044][956]LogBlueprintUserMessages: [PC_RTS_C_0] 0.3406250.997222
+[2023.04.24-08.36.36:054][957]LogBlueprintUserMessages: [PC_RTS_C_0] 0.3351560.997222
+[2023.04.24-08.36.36:063][958]LogBlueprintUserMessages: [PC_RTS_C_0] 0.3351560.997222
+[2023.04.24-08.36.36:072][959]LogBlueprintUserMessages: [PC_RTS_C_0] 0.3351560.997222
+[2023.04.24-08.36.36:081][960]LogBlueprintUserMessages: [PC_RTS_C_0] 0.3351560.997222
+[2023.04.24-08.36.36:090][961]LogBlueprintUserMessages: [PC_RTS_C_0] 0.3382810.997222
+[2023.04.24-08.36.36:099][962]LogBlueprintUserMessages: [PC_RTS_C_0] 0.3382810.997222
+[2023.04.24-08.36.36:108][963]LogBlueprintUserMessages: [PC_RTS_C_0] 0.3414060.997222
+[2023.04.24-08.36.36:117][964]LogBlueprintUserMessages: [PC_RTS_C_0] 0.3414060.997222
+[2023.04.24-08.36.36:127][965]LogBlueprintUserMessages: [PC_RTS_C_0] 0.3414060.997222
+[2023.04.24-08.36.36:136][966]LogBlueprintUserMessages: [PC_RTS_C_0] 0.3414060.997222
+[2023.04.24-08.36.36:146][967]LogBlueprintUserMessages: [PC_RTS_C_0] 0.3429690.997222
+[2023.04.24-08.36.36:157][968]LogBlueprintUserMessages: [PC_RTS_C_0] 0.343750.997222
+[2023.04.24-08.36.36:166][969]LogBlueprintUserMessages: [PC_RTS_C_0] 0.3445310.997222
+[2023.04.24-08.36.36:176][970]LogBlueprintUserMessages: [PC_RTS_C_0] 0.3445310.997222
+[2023.04.24-08.36.36:186][971]LogBlueprintUserMessages: [PC_RTS_C_0] 0.3484380.990278
+[2023.04.24-08.36.36:196][972]LogBlueprintUserMessages: [PC_RTS_C_0] 0.3515620.981944
+[2023.04.24-08.36.36:205][973]LogBlueprintUserMessages: [PC_RTS_C_0] 0.3554690.970833
+[2023.04.24-08.36.36:215][974]LogBlueprintUserMessages: [PC_RTS_C_0] 0.3570310.966667
+[2023.04.24-08.36.36:225][975]LogBlueprintUserMessages: [PC_RTS_C_0] 0.3632810.943056
+[2023.04.24-08.36.36:235][976]LogBlueprintUserMessages: [PC_RTS_C_0] 0.3656250.927778
+[2023.04.24-08.36.36:245][977]LogBlueprintUserMessages: [PC_RTS_C_0] 0.3656250.922222
+[2023.04.24-08.36.36:255][978]LogBlueprintUserMessages: [PC_RTS_C_0] 0.3671880.9
+[2023.04.24-08.36.36:264][979]LogBlueprintUserMessages: [PC_RTS_C_0] 0.3671880.9
+[2023.04.24-08.36.36:276][980]LogBlueprintUserMessages: [PC_RTS_C_0] 0.3671880.873611
+[2023.04.24-08.36.36:285][981]LogBlueprintUserMessages: [PC_RTS_C_0] 0.3664060.870833
+[2023.04.24-08.36.36:296][982]LogBlueprintUserMessages: [PC_RTS_C_0] 0.3632810.840278
+[2023.04.24-08.36.36:307][983]LogBlueprintUserMessages: [PC_RTS_C_0] 0.3593750.820833
+[2023.04.24-08.36.36:318][984]LogBlueprintUserMessages: [PC_RTS_C_0] 0.3539060.801389
+[2023.04.24-08.36.36:329][985]LogBlueprintUserMessages: [PC_RTS_C_0] 0.3453130.781944
+[2023.04.24-08.36.36:338][986]LogBlueprintUserMessages: [PC_RTS_C_0] 0.3429690.777778
+[2023.04.24-08.36.36:348][987]LogBlueprintUserMessages: [PC_RTS_C_0] 0.3281250.759722
+[2023.04.24-08.36.36:356][988]LogBlueprintUserMessages: [PC_RTS_C_0] 0.3281250.759722
+[2023.04.24-08.36.36:365][989]LogBlueprintUserMessages: [PC_RTS_C_0] 0.3093750.748611
+[2023.04.24-08.36.36:374][990]LogBlueprintUserMessages: [PC_RTS_C_0] 0.3054690.748611
+[2023.04.24-08.36.36:384][991]LogBlueprintUserMessages: [PC_RTS_C_0] 0.2859380.751389
+[2023.04.24-08.36.36:393][992]LogBlueprintUserMessages: [PC_RTS_C_0] 0.281250.752778
+[2023.04.24-08.36.36:402][993]LogBlueprintUserMessages: [PC_RTS_C_0] 0.2531250.766667
+[2023.04.24-08.36.36:412][994]LogBlueprintUserMessages: [PC_RTS_C_0] 0.2343750.777778
+[2023.04.24-08.36.36:421][995]LogBlueprintUserMessages: [PC_RTS_C_0] 0.2296870.780556
+[2023.04.24-08.36.36:430][996]LogBlueprintUserMessages: [PC_RTS_C_0] 0.1953120.802778
+[2023.04.24-08.36.36:440][997]LogBlueprintUserMessages: [PC_RTS_C_0] 0.1953120.802778
+[2023.04.24-08.36.36:449][998]LogBlueprintUserMessages: [PC_RTS_C_0] 0.1593750.831944
+[2023.04.24-08.36.36:460][999]LogBlueprintUserMessages: [PC_RTS_C_0] 0.1546880.836111
+[2023.04.24-08.36.36:469][  0]LogBlueprintUserMessages: [PC_RTS_C_0] 0.1234380.866667
+[2023.04.24-08.36.36:480][  1]LogBlueprintUserMessages: [PC_RTS_C_0] 0.118750.872222
+[2023.04.24-08.36.36:490][  2]LogBlueprintUserMessages: [PC_RTS_C_0] 0.0921880.894444
+[2023.04.24-08.36.36:500][  3]LogBlueprintUserMessages: [PC_RTS_C_0] 0.0921880.894444
+[2023.04.24-08.36.36:509][  4]LogBlueprintUserMessages: [PC_RTS_C_0] 0.0726560.905556
+[2023.04.24-08.36.36:519][  5]LogBlueprintUserMessages: [PC_RTS_C_0] 0.0703120.906944
+[2023.04.24-08.36.36:528][  6]LogBlueprintUserMessages: [PC_RTS_C_0] 0.0703120.906944
+[2023.04.24-08.36.36:537][  7]LogBlueprintUserMessages: [PC_RTS_C_0] 0.0703120.906944
+[2023.04.24-08.36.36:546][  8]LogBlueprintUserMessages: [PC_RTS_C_0] 0.081250.902778
+[2023.04.24-08.36.36:556][  9]LogBlueprintUserMessages: [PC_RTS_C_0] 0.081250.902778
+[2023.04.24-08.36.36:566][ 10]LogBlueprintUserMessages: [PC_RTS_C_0] 0.1101560.894444
+[2023.04.24-08.36.36:575][ 11]LogBlueprintUserMessages: [PC_RTS_C_0] 0.1164060.893056
+[2023.04.24-08.36.36:585][ 12]LogBlueprintUserMessages: [PC_RTS_C_0] 0.1523440.886111
+[2023.04.24-08.36.36:595][ 13]LogBlueprintUserMessages: [PC_RTS_C_0] 0.1617190.884722
+[2023.04.24-08.36.36:604][ 14]LogBlueprintUserMessages: [PC_RTS_C_0] 0.2093750.881944
+[2023.04.24-08.36.36:614][ 15]LogBlueprintUserMessages: [PC_RTS_C_0] 0.2093750.881944
+[2023.04.24-08.36.36:624][ 16]LogBlueprintUserMessages: [PC_RTS_C_0] 0.2773440.897222
+[2023.04.24-08.36.36:633][ 17]LogBlueprintUserMessages: [PC_RTS_C_0] 0.2890620.902778
+[2023.04.24-08.36.36:642][ 18]LogBlueprintUserMessages: [PC_RTS_C_0] 0.3460940.926389
+[2023.04.24-08.36.36:652][ 19]LogBlueprintUserMessages: [PC_RTS_C_0] 0.3570310.930556
+[2023.04.24-08.36.36:662][ 20]LogBlueprintUserMessages: [PC_RTS_C_0] 0.4101560.958333
+[2023.04.24-08.36.36:671][ 21]LogBlueprintUserMessages: [PC_RTS_C_0] 0.4101560.958333
+[2023.04.24-08.36.36:681][ 22]LogBlueprintUserMessages: [PC_RTS_C_0] 0.4515620.984722
+[2023.04.24-08.36.36:690][ 23]LogBlueprintUserMessages: [PC_RTS_C_0] 0.4570310.988889
+[2023.04.24-08.36.36:700][ 24]LogBlueprintUserMessages: [PC_RTS_C_0] 0.4703130.997222
+[2023.04.24-08.36.36:709][ 25]LogBlueprintUserMessages: [PC_RTS_C_0] 0.4703130.997222
+[2023.04.24-08.36.36:717][ 26]LogBlueprintUserMessages: [PC_RTS_C_0] 0.4710940.997222
+[2023.04.24-08.36.36:727][ 27]LogBlueprintUserMessages: [PC_RTS_C_0] 0.4710940.997222
+[2023.04.24-08.36.36:737][ 28]LogBlueprintUserMessages: [PC_RTS_C_0] 0.4632810.997222
+[2023.04.24-08.36.36:746][ 29]LogBlueprintUserMessages: [PC_RTS_C_0] 0.4601560.997222
+[2023.04.24-08.36.36:756][ 30]LogBlueprintUserMessages: [PC_RTS_C_0] 0.4429690.994444
+[2023.04.24-08.36.36:765][ 31]LogBlueprintUserMessages: [PC_RTS_C_0] 0.4390630.993056
+[2023.04.24-08.36.36:774][ 32]LogBlueprintUserMessages: [PC_RTS_C_0] 0.4109380.972222
+[2023.04.24-08.36.36:783][ 33]LogBlueprintUserMessages: [PC_RTS_C_0] 0.4109380.972222
+[2023.04.24-08.36.36:793][ 34]LogBlueprintUserMessages: [PC_RTS_C_0] 0.3750.927778
+[2023.04.24-08.36.36:803][ 35]LogBlueprintUserMessages: [PC_RTS_C_0] 0.3695310.918056
+[2023.04.24-08.36.36:813][ 36]LogBlueprintUserMessages: [PC_RTS_C_0] 0.3406250.861111
+[2023.04.24-08.36.36:823][ 37]LogBlueprintUserMessages: [PC_RTS_C_0] 0.3351560.845833
+[2023.04.24-08.36.36:833][ 38]LogBlueprintUserMessages: [PC_RTS_C_0] 0.3085940.765278
+[2023.04.24-08.36.36:843][ 39]LogBlueprintUserMessages: [PC_RTS_C_0] 0.3085940.765278
+[2023.04.24-08.36.36:852][ 40]LogBlueprintUserMessages: [PC_RTS_C_0] 0.2906250.690278
+[2023.04.24-08.36.36:862][ 41]LogBlueprintUserMessages: [PC_RTS_C_0] 0.2898440.680556
+[2023.04.24-08.36.36:872][ 42]LogBlueprintUserMessages: [PC_RTS_C_0] 0.28750.634722
+[2023.04.24-08.36.36:882][ 43]LogBlueprintUserMessages: [PC_RTS_C_0] 0.2882810.626389
+[2023.04.24-08.36.36:891][ 44]LogBlueprintUserMessages: [PC_RTS_C_0] 0.2960940.594444
+[2023.04.24-08.36.36:901][ 45]LogBlueprintUserMessages: [PC_RTS_C_0] 0.2960940.594444
+[2023.04.24-08.36.36:911][ 46]LogBlueprintUserMessages: [PC_RTS_C_0] 0.3164060.570833
+[2023.04.24-08.36.36:920][ 47]LogBlueprintUserMessages: [PC_RTS_C_0] 0.3203120.568056
+[2023.04.24-08.36.36:929][ 48]LogBlueprintUserMessages: [PC_RTS_C_0] 0.3421870.566667
+[2023.04.24-08.36.36:938][ 49]LogBlueprintUserMessages: [PC_RTS_C_0] 0.3453130.566667
+[2023.04.24-08.36.36:948][ 50]LogBlueprintUserMessages: [PC_RTS_C_0] 0.3648440.579167
+[2023.04.24-08.36.36:957][ 51]LogBlueprintUserMessages: [PC_RTS_C_0] 0.3757810.588889
+[2023.04.24-08.36.36:968][ 52]LogBlueprintUserMessages: [PC_RTS_C_0] 0.3781250.593056
+[2023.04.24-08.36.36:977][ 53]LogBlueprintUserMessages: [PC_RTS_C_0] 0.3906250.619444
+[2023.04.24-08.36.36:987][ 54]LogBlueprintUserMessages: [PC_RTS_C_0] 0.3906250.619444
+[2023.04.24-08.36.36:997][ 55]LogBlueprintUserMessages: [PC_RTS_C_0] 0.3968750.661111
+[2023.04.24-08.36.37:006][ 56]LogBlueprintUserMessages: [PC_RTS_C_0] 0.3968750.669444
+[2023.04.24-08.36.37:017][ 57]LogBlueprintUserMessages: [PC_RTS_C_0] 0.3929690.704167
+[2023.04.24-08.36.37:027][ 58]LogBlueprintUserMessages: [PC_RTS_C_0] 0.3906250.7125
+[2023.04.24-08.36.37:036][ 59]LogBlueprintUserMessages: [PC_RTS_C_0] 0.3765630.740278
+[2023.04.24-08.36.37:046][ 60]LogBlueprintUserMessages: [PC_RTS_C_0] 0.3765630.740278
+[2023.04.24-08.36.37:054][ 61]LogBlueprintUserMessages: [PC_RTS_C_0] 0.3546870.759722
+[2023.04.24-08.36.37:064][ 62]LogBlueprintUserMessages: [PC_RTS_C_0] 0.350.7625
+[2023.04.24-08.36.37:073][ 63]LogBlueprintUserMessages: [PC_RTS_C_0] 0.3296880.766667
+[2023.04.24-08.36.37:083][ 64]LogBlueprintUserMessages: [PC_RTS_C_0] 0.3257810.766667
+[2023.04.24-08.36.37:092][ 65]LogBlueprintUserMessages: [PC_RTS_C_0] 0.3101560.759722
+[2023.04.24-08.36.37:101][ 66]LogBlueprintUserMessages: [PC_RTS_C_0] 0.3101560.759722
+[2023.04.24-08.36.37:111][ 67]LogBlueprintUserMessages: [PC_RTS_C_0] 0.3054690.751389
+[2023.04.24-08.36.37:122][ 68]LogBlueprintUserMessages: [PC_RTS_C_0] 0.3054690.75
+[2023.04.24-08.36.37:132][ 69]LogBlueprintUserMessages: [PC_RTS_C_0] 0.3117190.736111
+[2023.04.24-08.36.37:143][ 70]LogBlueprintUserMessages: [PC_RTS_C_0] 0.3156250.730556
+[2023.04.24-08.36.37:154][ 71]LogBlueprintUserMessages: [PC_RTS_C_0] 0.3390620.702778
+[2023.04.24-08.36.37:165][ 72]LogBlueprintUserMessages: [PC_RTS_C_0] 0.3664060.675
+[2023.04.24-08.36.37:174][ 73]LogBlueprintUserMessages: [PC_RTS_C_0] 0.3742190.666667
+[2023.04.24-08.36.37:184][ 74]LogBlueprintUserMessages: [PC_RTS_C_0] 0.4164060.622222
+[2023.04.24-08.36.37:193][ 75]LogBlueprintUserMessages: [PC_RTS_C_0] 0.4164060.622222
+[2023.04.24-08.36.37:203][ 76]LogBlueprintUserMessages: [PC_RTS_C_0] 0.4828120.554167
+[2023.04.24-08.36.37:212][ 77]LogBlueprintUserMessages: [PC_RTS_C_0] 0.4898440.547222
+[2023.04.24-08.36.37:221][ 78]LogBlueprintUserMessages: [PC_RTS_C_0] 0.5445310.5
+[2023.04.24-08.36.37:231][ 79]LogBlueprintUserMessages: [PC_RTS_C_0] 0.5554690.491667
+[2023.04.24-08.36.37:241][ 80]LogBlueprintUserMessages: [PC_RTS_C_0] 0.6078120.459722
+[2023.04.24-08.36.37:250][ 81]LogBlueprintUserMessages: [PC_RTS_C_0] 0.6078120.459722
+[2023.04.24-08.36.37:260][ 82]LogBlueprintUserMessages: [PC_RTS_C_0] 0.6585940.441667
+[2023.04.24-08.36.37:270][ 83]LogBlueprintUserMessages: [PC_RTS_C_0] 0.6804690.440278
+[2023.04.24-08.36.37:279][ 84]LogBlueprintUserMessages: [PC_RTS_C_0] 0.6804690.440278
+[2023.04.24-08.36.37:289][ 85]LogBlueprintUserMessages: [PC_RTS_C_0] 0.7117190.448611
+[2023.04.24-08.36.37:297][ 86]LogBlueprintUserMessages: [PC_RTS_C_0] 0.7164060.452778
+[2023.04.24-08.36.37:306][ 87]LogBlueprintUserMessages: [PC_RTS_C_0] 0.7281250.466667
+[2023.04.24-08.36.37:316][ 88]LogBlueprintUserMessages: [PC_RTS_C_0] 0.7296880.469444
+[2023.04.24-08.36.37:326][ 89]LogBlueprintUserMessages: [PC_RTS_C_0] 0.731250.488889
+[2023.04.24-08.36.37:335][ 90]LogBlueprintUserMessages: [PC_RTS_C_0] 0.731250.488889
+[2023.04.24-08.36.37:345][ 91]LogBlueprintUserMessages: [PC_RTS_C_0] 0.7257810.519444
+[2023.04.24-08.36.37:358][ 92]LogBlueprintUserMessages: [PC_RTS_C_0] 0.7234370.526389
+[2023.04.24-08.36.37:369][ 93]LogBlueprintUserMessages: [PC_RTS_C_0] 0.7117190.5625
+[2023.04.24-08.36.37:379][ 94]LogBlueprintUserMessages: [PC_RTS_C_0] 0.706250.577778
+[2023.04.24-08.36.37:388][ 95]LogBlueprintUserMessages: [PC_RTS_C_0] 0.7039060.583333
+[2023.04.24-08.36.37:397][ 96]LogBlueprintUserMessages: [PC_RTS_C_0] 0.6960940.604167
+[2023.04.24-08.36.37:407][ 97]LogBlueprintUserMessages: [PC_RTS_C_0] 0.6945310.606944
+[2023.04.24-08.36.37:417][ 98]LogBlueprintUserMessages: [PC_RTS_C_0] 0.6882810.620833
+[2023.04.24-08.36.37:426][ 99]LogBlueprintUserMessages: [PC_RTS_C_0] 0.6882810.620833
+[2023.04.24-08.36.37:435][100]LogBlueprintUserMessages: [PC_RTS_C_0] 0.6851560.627778
+[2023.04.24-08.36.37:444][101]LogBlueprintUserMessages: [PC_RTS_C_0] 0.6851560.629167
+[2023.04.24-08.36.37:453][102]LogBlueprintUserMessages: [PC_RTS_C_0] 0.6843750.630556
+[2023.04.24-08.36.37:475][102]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.04.24-08.36.37:475][102]LogWorld: BeginTearingDown for /Game/MyFirstRTS/Maps/UEDPIE_0_RockyLevel
+[2023.04.24-08.36.37:475][102]LogSlate: Window 'StratGame Preview [NetMode: Standalone 0]  (64-bit/D3D Shader Model 6)' being destroyed
+[2023.04.24-08.36.37:481][102]LogWorld: UWorld::CleanupWorld for RockyLevel, bSessionEnded=true, bCleanupResources=true
+[2023.04.24-08.36.37:482][102]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.24-08.36.37:482][102]LogContentBundle: [RockyLevel(Standalone)] Deleting container.
+[2023.04.24-08.36.37:484][102]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.04.24-08.36.37:488][102]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.24-08.36.37:508][102]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 4
+[2023.04.24-08.36.37:509][102]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=4
+[2023.04.24-08.36.37:510][102]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=4
+[2023.04.24-08.36.37:515][102]LogUObjectHash: Compacting FUObjectHashTables data took   1.11ms
+[2023.04.24-08.36.37:553][105]LogPlayLevel: Display: Destroying online subsystem :Context_12
+[2023.04.24-08.37.52:320][412]LogUObjectHash: Compacting FUObjectHashTables data took   1.35ms
+[2023.04.24-08.37.52:321][412]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/MyFirstRTS/Maps/RockyLevel' took 0.019
+[2023.04.24-08.37.52:321][412]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/PC_RTS] ([2] browsable assets)...
+[2023.04.24-08.37.52:321][412]OBJ SavePackage: Finished generating thumbnails for package [/Game/PC_RTS]
+[2023.04.24-08.37.52:321][412]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/PC_RTS" FILE="D:/dossier perso/GIT/Projet-UnrealStrat/Projet-UnrealStrat/StratGame/Saved/Autosaves/Game/PC_RTS_Auto3.uasset" SILENT=false AUTOSAVING=true
+[2023.04.24-08.37.52:331][412]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/PC_RTS_Auto3
+[2023.04.24-08.37.52:331][412]LogSavePackage: Moving 'D:/dossier perso/GIT/Projet-UnrealStrat/Projet-UnrealStrat/StratGame/Saved/PC_RTS_Auto3EF42CE0E47887911A00273AC15E2D78E.tmp' to 'D:/dossier perso/GIT/Projet-UnrealStrat/Projet-UnrealStrat/StratGame/Saved/Autosaves/Game/PC_RTS_Auto3.uasset'
+[2023.04.24-08.37.52:335][412]LogFileHelpers: Auto-saving content packages took 0.014
+[2023.04.24-08.38.34:974][581]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.04.24-08.38.43:096][254]LogEditorClassViewer: Warning: Class /Game/UI/MiniMapCapture.MiniMapCapture_C has parent /Script/StrategyGame.StrategyMiniMapCapture, but this parent is not found. The Class will not be shown in ClassViewer.
+[2023.04.24-08.38.43:096][254]LogEditorClassViewer: Warning: Class /Game/Resources/GoldPickup.GoldPickup_C has parent /Script/StrategyGame.StrategyResourceNode, but this parent is not found. The Class will not be shown in ClassViewer.
+[2023.04.24-08.38.43:096][254]LogEditorClassViewer: Warning: Class /Game/Projectiles/Projectile_arbalest_auto.Projectile_arbalest_auto_C has parent /Script/StrategyGame.StrategyProjectile, but this parent is not found. The Class will not be shown in ClassViewer.
+[2023.04.24-08.38.43:096][254]LogEditorClassViewer: Warning: Class /Game/Projectiles/BaseProjectile.BaseProjectile_C has parent /Script/StrategyGame.StrategyProjectile, but this parent is not found. The Class will not be shown in ClassViewer.
+[2023.04.24-08.38.43:096][254]LogEditorClassViewer: Warning: Class /Game/Buildings/Wall/Wall_Smithy.Wall_Smithy_C has parent /Script/StrategyGame.StrategyBuilding, but this parent is not found. The Class will not be shown in ClassViewer.
+[2023.04.24-08.38.43:096][254]LogEditorClassViewer: Warning: Class /Game/Buildings/Wall/Wall_Flamethrower.Wall_Flamethrower_C has parent /Script/StrategyGame.StrategyBuilding, but this parent is not found. The Class will not be shown in ClassViewer.
+[2023.04.24-08.38.43:096][254]LogEditorClassViewer: Warning: Class /Game/Buildings/Wall/Wall_EmptySlot_Brewery.Wall_EmptySlot_Brewery_C has parent /Script/StrategyGame.StrategyBuilding, but this parent is not found. The Class will not be shown in ClassViewer.
+[2023.04.24-08.38.43:096][254]LogEditorClassViewer: Warning: Class /Game/Buildings/Wall/Wall_EmptySlot.Wall_EmptySlot_C has parent /Script/StrategyGame.StrategyBuilding, but this parent is not found. The Class will not be shown in ClassViewer.
+[2023.04.24-08.38.43:096][254]LogEditorClassViewer: Warning: Class /Game/Buildings/Wall/Wall_Armorer.Wall_Armorer_C has parent /Script/StrategyGame.StrategyBuilding, but this parent is not found. The Class will not be shown in ClassViewer.
+[2023.04.24-08.38.43:096][254]LogEditorClassViewer: Warning: Class /Game/Buildings/Wall/Wall_arbalest_auto.Wall_arbalest_auto_C has parent /Script/StrategyGame.StrategyBuilding, but this parent is not found. The Class will not be shown in ClassViewer.
+[2023.04.24-08.38.43:096][254]LogEditorClassViewer: Warning: Class /Game/Buildings/Wall/Wall_arbalest.Wall_arbalest_C has parent /Script/StrategyGame.StrategyBuilding, but this parent is not found. The Class will not be shown in ClassViewer.
+[2023.04.24-08.38.43:096][254]LogEditorClassViewer: Warning: Class /Game/Buildings/Brewery/Brewery.Brewery_C has parent /Script/StrategyGame.StrategyBuilding_Brewery, but this parent is not found. The Class will not be shown in ClassViewer.
+[2023.04.24-08.38.43:096][254]LogEditorClassViewer: Warning: Class /Game/Characters/DwarfGrunt/Blueprint/Minion.Minion_C has parent /Script/StrategyGame.StrategyChar, but this parent is not found. The Class will not be shown in ClassViewer.
+[2023.04.24-08.38.43:096][254]LogEditorClassViewer: Warning: Class /Game/Characters/DwarfGrunt/Blueprint/Attachment_Smithy.Attachment_Smithy_C has parent /Script/StrategyGame.StrategyAttachment, but this parent is not found. The Class will not be shown in ClassViewer.
+[2023.04.24-08.38.43:096][254]LogEditorClassViewer: Warning: Class /Game/Characters/DwarfGrunt/Blueprint/Attachment_Armorer.Attachment_Armorer_C has parent /Script/StrategyGame.StrategyAttachment, but this parent is not found. The Class will not be shown in ClassViewer.
+[2023.04.24-08.38.43:096][254]LogEditorClassViewer: Warning: Class /Game/Characters/DwarfGrunt/Blueprint/DwarfGruntAnimationBlueprint_new.DwarfGruntAnimationBlueprint_new_C has parent /Script/StrategyGame.StrategyAnimInstance, but this parent is not found. The Class will not be shown in ClassViewer.
+[2023.04.24-08.38.44:064][254]LogSlate: Window 'Pick Parent Class' being destroyed
+[2023.04.24-08.38.44:071][254]LogContentBrowser: Deferred new asset file creation: NewBlueprint
+[2023.04.24-08.38.44:076][254]LogContentBrowser: Creating deferred item: NewBlueprint
+[2023.04.24-08.38.44:089][255]LogContentBrowser: Renaming the item being created (Deferred Item: NewBlueprint).
+[2023.04.24-08.38.45:005][340]LogContentBrowser: Attempting asset rename: NewBlueprint -> NewBlueprint
+[2023.04.24-08.38.45:011][340]LogContentBrowser: End creating deferred item NewBlueprint
+[2023.04.24-08.38.48:810][665]LogUObjectHash: Compacting FUObjectHashTables data took   1.02ms
+[2023.04.24-08.38.48:815][665]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.04.24-08.38.48:840][665]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/PC_RTS" FILE="D:/dossier perso/GIT/Projet-UnrealStrat/Projet-UnrealStrat/StratGame/Content/PC_RTS.uasset" SILENT=true
+[2023.04.24-08.38.48:853][665]LogSavePackage: Moving output files for package: /Game/PC_RTS
+[2023.04.24-08.38.48:854][665]LogSavePackage: Moving 'D:/dossier perso/GIT/Projet-UnrealStrat/Projet-UnrealStrat/StratGame/Saved/PC_RTSB97BF66549571A1302EACC876F002C0B.tmp' to 'D:/dossier perso/GIT/Projet-UnrealStrat/Projet-UnrealStrat/StratGame/Content/PC_RTS.uasset'
+[2023.04.24-08.38.48:855][665]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/NewBlueprint" FILE="D:/dossier perso/GIT/Projet-UnrealStrat/Projet-UnrealStrat/StratGame/Content/NewBlueprint.uasset" SILENT=true
+[2023.04.24-08.38.48:856][665]LogSavePackage: Moving output files for package: /Game/NewBlueprint
+[2023.04.24-08.38.48:857][665]LogSavePackage: Moving 'D:/dossier perso/GIT/Projet-UnrealStrat/Projet-UnrealStrat/StratGame/Saved/NewBlueprintD2BFFDC646F395C335ED07906D6BC662.tmp' to 'D:/dossier perso/GIT/Projet-UnrealStrat/Projet-UnrealStrat/StratGame/Content/NewBlueprint.uasset'
+[2023.04.24-08.38.48:865][665]LogFileHelpers: InternalPromptForCheckoutAndSave took 50 ms
+[2023.04.24-08.38.48:871][665]AssetCheck: New page: Asset Save: multiple assets
+[2023.04.24-08.38.48:871][665]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/PC_RTS.PC_RTS
+[2023.04.24-08.38.48:871][665]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/NewBlueprint.NewBlueprint
